@@ -4526,8 +4526,408 @@
       "source_status": "new_hypothesis_unverified",
       "path": "contests/yongin/ideas/2026-10-07-1956.md",
       "batch": "2026-10-07-1956"
+    },
+    {
+      "id": "anseong-20261007-2158-01",
+      "contest": "anseong",
+      "title": "영수증 상호와 실제 점포 이름 연결",
+      "problem": "소비자가 결제내역의 사업자명을 간판 이름과 연결하지 못하면 모르는 결제로 오인해 점포에 문의할 수 있다.",
+      "implementation": "참여 점포가 결제사업자와 가능한 표시 범위를 확인하고 영수증·계산대에 간판명과 결제표시명을 함께 안내한다.",
+      "pilot_and_metrics": "점포 15곳·4주; 미확인 결제 문의, 확인시간, 표시 누락",
+      "related_prior_ids": [
+        "anseong-E015"
+      ],
+      "distinction_from_previous": "판매자 정산액 대조가 아니라 소비자가 결제한 점포를 식별하는 문제다.",
+      "first_verification": "최근 결제 오인 문의와 결제사업자 표시 기능 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/anseong/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "anseong-20261007-2158-02",
+      "contest": "anseong",
+      "title": "원재료 변동에 따른 견적 유효기간 안내",
+      "problem": "제조 소공인이 원재료 가격 변동 중 오래된 견적으로 주문을 받으면 가격 재협의와 거래 갈등이 생길 수 있다.",
+      "implementation": "견적서에 적용 기간·포함 범위·기간 경과 뒤 재확인 절차를 명시하고 발주 확정 전 양측이 확인한다. 가격 조정 조건은 당사자 합의와 전문 검토에 따른다.",
+      "pilot_and_metrics": "소공인 10곳·6주; 만료 견적 발주, 재협의 시간, 거래 취소",
+      "related_prior_ids": [
+        "anseong-V016"
+      ],
+      "distinction_from_previous": "동일 조건의 업체별 견적 비교가 아니라 한 견적이 어느 시점까지 유효한지 관리한다.",
+      "first_verification": "실제 견적·발주 간격과 기존 계약 양식 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/anseong/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "anseong-20261007-2158-03",
+      "contest": "anseong",
+      "title": "상점가 폐종이상자 회수의 부피 축소",
+      "problem": "부피가 큰 상자가 수거 전 쌓이면 점포 공간을 차지하고 수거 차량이 반복 방문할 수 있다.",
+      "implementation": "상인회·수거업체가 접기·분류·회수 시간을 합의하고 적합한 공동 적치 장소를 운영한다. 압축장비는 수요·안전·관리 여건이 확인될 때만 검토한다.",
+      "pilot_and_metrics": "상점가 1곳·6주; 적치 부피, 수거 횟수, 통행 방해시간",
+      "related_prior_ids": [
+        "anseong-E024"
+      ],
+      "distinction_from_previous": "일반 물품의 대체 보관이 아니라 재활용 상자의 부피와 회수 물류를 함께 개선한다.",
+      "first_verification": "발생량·기존 수거계약·적치 공간 여건 조사",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/anseong/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "anseong-20261007-2158-04",
+      "contest": "anseong",
+      "title": "작은 점포의 상품 진열 낙하위험 개선",
+      "problem": "높은 곳이나 좁은 통로에 상품을 쌓으면 고객이 물건을 꺼내기 어렵고 낙하 우려가 생길 수 있다.",
+      "implementation": "점주·시설 전문가가 상품 중량·고객 동선을 보고 진열 높이·고정·직원 요청 방식을 개선한다. 매출 진열면 손실도 함께 평가한다.",
+      "pilot_and_metrics": "점포 10곳·4주; 물건 꺼내기 도움 요청, 낙하·아차사고 기록, 진열면 변화",
+      "related_prior_ids": [
+        "anseong-E003"
+      ],
+      "distinction_from_previous": "출입구 문턱 개선과 달리 입장 후 상품을 고르고 꺼내는 진열환경을 다룬다.",
+      "first_verification": "기존 매장 개선사업과 현장 위험·고객 불편 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/anseong/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "anseong-20261007-2158-05",
+      "contest": "anseong",
+      "title": "보조견 동반 고객 응대의 현장 연습",
+      "problem": "점주가 보조견과 일반 반려동물의 응대 기준을 혼동하면 고객과 현장에서 갈등을 겪을 수 있다.",
+      "implementation": "관계기관·당사자 단체가 검토한 사례로 직원 교육을 하고 확인이 필요한 상황의 문의 경로를 마련한다. 적용 기준은 최신 공식 안내로 확인한다.",
+      "pilot_and_metrics": "상점가 1곳·교육 2회; 상황별 응대 이해도, 당사자 이용 불편, 재교육 필요",
+      "related_prior_ids": [
+        "anseong-E020"
+      ],
+      "distinction_from_previous": "디지털 주문의 사람 대체 경로와 달리 보조견을 동반한 고객의 출입·응대 과정을 다룬다.",
+      "first_verification": "현행 공식 안내와 실제 출입 갈등 사례 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/anseong/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "gyeongbuk-20261007-2158-01",
+      "contest": "gyeongbuk",
+      "title": "지역 농산물 이름의 검색 연결",
+      "problem": "같은 농산물을 지역 이름으로만 안내하면 외지 소비자가 익숙한 이름으로 검색해도 상품을 찾지 못할 수 있다.",
+      "implementation": "생산자·전문가가 실제 동의어와 품종 차이를 검토해 지역 판매몰의 검색어를 연결한다. 다른 품종·원산지를 같은 상품으로 합치지 않는다.",
+      "pilot_and_metrics": "품목 10종·6주; 검색 무결과율, 상품 발견시간, 잘못 연결된 검색",
+      "related_prior_ids": [
+        "gyeongbuk-E024"
+      ],
+      "distinction_from_previous": "원산지 증빙 재사용과 달리 구매자가 상품명을 찾는 단계의 표현 차이를 줄인다.",
+      "first_verification": "검색 로그와 지역별 상품명 대조",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "gyeongbuk-20261007-2158-02",
+      "contest": "gyeongbuk",
+      "title": "공동 농기계 조작부 차이 사전실습",
+      "problem": "같은 종류의 임대 농기계라도 기종별 조작부가 다르면 이용자가 현장에서 다시 익혀야 할 수 있다.",
+      "implementation": "임대사업소가 기종별 차이를 전문가가 승인한 자료와 정지 상태 실습으로 안내한다. 자격·안전교육을 대체하지 않으며 실제 조작은 정해진 절차에 따른다.",
+      "pilot_and_metrics": "임대사업소 1곳·4주; 조작 문의, 출고 교육 이해도, 교육시간",
+      "related_prior_ids": [
+        "gyeongbuk-I1"
+      ],
+      "distinction_from_previous": "인접 시군 장비 예약·요금 협약과 달리 빌린 기종의 조작 차이에 적응하는 인수 교육이다.",
+      "first_verification": "현재 출고교육·기종별 문의 사례 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "gyeongbuk-20261007-2158-03",
+      "contest": "gyeongbuk",
+      "title": "축제 숙박요금의 총액 비교표",
+      "problem": "축제 방문객이 기본 숙박료만 보고 예약하면 인원·침구 등 추가비용을 뒤늦게 알 수 있다.",
+      "implementation": "희망 숙박업소가 동일한 숙박일·인원 조건의 총액과 선택 추가항목을 표시하도록 관광기관이 공통 양식을 제공한다. 실제 판매 조건과 주기적으로 대조한다.",
+      "pilot_and_metrics": "업소 15곳·축제 1회; 현장 추가요금 이의, 비교시간, 정보 불일치",
+      "related_prior_ids": [
+        "gyeongbuk-E029"
+      ],
+      "distinction_from_previous": "관광할인 자격 증명 부담과 달리 예약 전 실제 지출금액의 비교 가능성을 개선한다.",
+      "first_verification": "기존 예약화면·소비자 문의와 사업자 참여 의향 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "gyeongbuk-20261007-2158-04",
+      "contest": "gyeongbuk",
+      "title": "농촌 관광객과 가축 이동 동선의 충돌 예방",
+      "problem": "관광체험 시간과 가축 이동이 겹치면 방문객·농가가 서로 예상하지 못한 접근을 할 수 있다.",
+      "implementation": "농가·체험운영자가 공개 가능한 이동 시간과 관광 동선을 조정하고 현장 안내를 둔다. 동물 복지·방역·도로 이용조건은 전문가와 관계기관이 확인한다.",
+      "pilot_and_metrics": "체험마을 1곳·한 시즌; 동선 충돌, 우회시간, 농가 불편",
+      "related_prior_ids": [
+        "gyeongbuk-E021"
+      ],
+      "distinction_from_previous": "농기계가 진입할 수 있는 개발 설계와 달리 평상시 가축 이동과 관광 활동의 시간·동선을 조정한다.",
+      "first_verification": "실제 가축 이동·관광 중첩 사례와 기존 방역 운영 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "gyeongbuk-20261007-2158-05",
+      "contest": "gyeongbuk",
+      "title": "계절근로자 귀국 전 생활업무 정리 지원",
+      "problem": "계절근로자가 귀국한 뒤 숙소 물품·통신서비스 등 미처리 생활업무가 남으면 고용주와 반복 연락해야 할 수 있다.",
+      "implementation": "지원기관이 희망자에게 개인별 미완료 업무·공식 처리창구를 정리하도록 돕는다. 해지·반환은 본인이 확인하고 계정 비밀번호나 금융 인증정보를 수집하지 않는다.",
+      "pilot_and_metrics": "근로자 20명·귀국 전후 4주; 귀국 후 재문의, 미처리 업무, 본인 확인률",
+      "related_prior_ids": [
+        "gyeongbuk-E003"
+      ],
+      "distinction_from_previous": "계약·급여의 다국어 기록과 달리 체류 종료 시 임금 외 생활서비스의 마무리를 다룬다.",
+      "first_verification": "기존 귀국지원 절차와 반복 문의 유형 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kwater-20261007-2158-01",
+      "contest": "kwater",
+      "title": "절수 인센티브에 기존 저사용 가구 반영",
+      "problem": "전년 대비 감소율만으로 절수를 평가하면 이미 적게 쓰던 가구가 노력해도 혜택을 받기 어려울 수 있다.",
+      "implementation": "해당 사업이 있는 경우 가구 규모·거주기간 등 비교 조건을 검토해 절감량과 적정 저사용 유지의 인정 방식을 함께 시험한다. 취약가구의 필요한 물 사용을 줄이도록 압박하지 않는다.",
+      "pilot_and_metrics": "가상·익명 자료 평가 1회; 집단별 선정 차이, 실질 절감, 이해도",
+      "related_prior_ids": [
+        "kwater-E007"
+      ],
+      "distinction_from_previous": "절수기기 성능 평가와 달리 주민 인센티브 배분에서 출발점 차이를 반영한다.",
+      "first_verification": "현행 사업 존재·평가기준과 적법한 자료 활용 가능성 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kwater/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kwater-20261007-2158-02",
+      "contest": "kwater",
+      "title": "재이용수 사용지점의 용도 혼동 예방",
+      "problem": "시설 안에 여러 급수 계통이 있으면 이용자나 새 관리자가 물의 허용 용도를 혼동할 수 있다.",
+      "implementation": "관리주체와 전문가가 사용지점의 표시·사용설명·인계자료를 함께 점검하고 이용자 이해시험을 한다. 설비 변경은 적격 전문가가 검토한다.",
+      "pilot_and_metrics": "협력시설 2곳·4주; 용도 오인율, 표시 누락, 관리 인계시간",
+      "related_prior_ids": [
+        "kwater-E019"
+      ],
+      "distinction_from_previous": "투자 전 수요처 확보와 달리 이미 공급되는 재이용수의 현장 사용 용도를 명확히 한다.",
+      "first_verification": "현행 표시기준과 시설 내 이용자 혼동 여부 조사",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kwater/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kwater-20261007-2158-03",
+      "contest": "kwater",
+      "title": "수질검사 장비 교정기간의 검사 공백 조정",
+      "problem": "검사장비의 교정·점검 일정이 겹치면 의뢰자가 평소보다 오래 기다리거나 다른 기관을 다시 찾아야 할 수 있다.",
+      "implementation": "품질관리 책임자가 장비 점검계획과 의뢰 수요를 함께 검토해 일정을 분산한다. 외부 연계는 적격성과 의뢰자 동의 등 필요한 조건을 확인한 범위에서 운영한다.",
+      "pilot_and_metrics": "검사소 1곳·분기 1회; 점검 사유 지연, 재의뢰, 추가 비용",
+      "related_prior_ids": [
+        "kwater-V020"
+      ],
+      "distinction_from_previous": "검사항목 견적 안내와 달리 검사 공급능력의 계획된 공백을 줄인다.",
+      "first_verification": "현행 교정계획과 실제 지연 사유 조사",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kwater/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kwater-20261007-2158-04",
+      "contest": "kwater",
+      "title": "해외 물설비 납품 후 현지 수리 연결",
+      "problem": "작은 물기업이 해외에 설비를 납품한 뒤 현지 수리 인력을 찾기 어려우면 고객 대응과 기업 출장 부담이 커질 수 있다.",
+      "implementation": "해외사업 지원 범위에서 검증 가능한 현지 서비스 기관과 기업을 연결하고 업무 범위·교육·부품·책임을 계약 전 확인하게 돕는다. 공사가 제품 보증을 대신하지 않는다.",
+      "pilot_and_metrics": "기업 5곳의 상담; 수리기관 탐색시간, 서비스 준비율, 출장 부담",
+      "related_prior_ids": [
+        "kwater-L4"
+      ],
+      "distinction_from_previous": "입찰 참여요건 확인과 달리 수주 이후 유지보수 제공능력을 준비한다.",
+      "first_verification": "기존 해외 지원사업·현지 파트너 정보와 기업 수요 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kwater/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kwater-20261007-2158-05",
+      "contest": "kwater",
+      "title": "물교육 전시 설명의 오래된 수치 관리",
+      "problem": "전시 패널과 해설자료의 수치 기준연도가 다르면 관람객이 과거 수치를 현재 상황으로 받아들일 수 있다.",
+      "implementation": "전시 담당자가 수치별 출처·기준연도·갱신 책임을 등록하고 변경 가능한 설명 부분부터 교체한다. 과거 비교자료는 과거 시점임을 유지해 표시한다.",
+      "pilot_and_metrics": "전시시설 1곳·패널 20개; 기준연도 누락, 자료 불일치, 갱신시간",
+      "related_prior_ids": [
+        "kwater-V009"
+      ],
+      "distinction_from_previous": "실시간 관측자료의 결측·잠정 구분과 달리 장기간 설치된 교육 콘텐츠의 수치 수명을 관리한다.",
+      "first_verification": "현재 패널·해설 원고의 출처와 기준연도 대조",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kwater/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kinfa-20261007-2158-01",
+      "contest": "kinfa",
+      "title": "신청서 저장과 최종 제출 상태 구분",
+      "problem": "내용을 저장하거나 인증을 마친 이용자가 신청까지 끝났다고 생각하면 접수기한을 놓칠 수 있다.",
+      "implementation": "화면·확인메시지에서 작성 중·저장·제출·접수를 구분하고 최종 제출 뒤 확인번호와 필요한 다음 행동을 제공한다. 이용자가 상태를 정확히 설명할 수 있는지 시험한다.",
+      "pilot_and_metrics": "신청화면 1개·사용자 20명; 제출 완료 오인율, 미제출 이탈, 재문의",
+      "related_prior_ids": [
+        "kinfa-E009"
+      ],
+      "distinction_from_previous": "중단한 입력을 이어가는 기능과 달리 절차가 실제로 제출됐는지 이해하는 문제다.",
+      "first_verification": "현재 접수 단계·메시지와 미제출 사례 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kinfa/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kinfa-20261007-2158-02",
+      "contest": "kinfa",
+      "title": "상품명 대신 생활상황으로 상담경로 찾기",
+      "problem": "지원상품 이름을 모르는 청년은 자신의 상황을 일상어로 검색해도 적합한 공식 상담창구를 찾기 어려울 수 있다.",
+      "implementation": "이용자가 쓰는 표현을 수집해 공식 상담 주제와 연결하는 검색어 사전을 담당자가 검토한다. 결과는 상담 출발점으로 제시하고 자격 충족이나 지원 승인을 단정하지 않는다.",
+      "pilot_and_metrics": "가상 검색문 30개·이용자 15명; 공식 경로 발견률, 검색 반복, 잘못된 연결",
+      "related_prior_ids": [
+        "kinfa-I4"
+      ],
+      "distinction_from_previous": "신청서 문구를 쉽게 고치는 안과 달리 어떤 서비스를 찾아야 하는지 모르는 신청 전 탐색을 다룬다.",
+      "first_verification": "현행 통합검색·상담 분류와 실제 무결과 검색어 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kinfa/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kinfa-20261007-2158-03",
+      "contest": "kinfa",
+      "title": "연계 데이터 제공 철회 후 적용범위 안내",
+      "problem": "자료 연결을 끊은 이용자가 과거 기록도 모두 삭제됐다고 오해하면 개인정보 처리에 대한 기대가 달라질 수 있다.",
+      "implementation": "업무별 실제 기준에 따라 추가 수집 중단·기관 보관·별도 삭제 요청의 차이를 설명하고 가능한 처리 결과를 확인하게 한다. 존재하지 않는 삭제 권리를 약속하지 않는다.",
+      "pilot_and_metrics": "연계화면 1개·사용자 15명; 철회 효과 이해도, 관련 재문의, 처리 확인률",
+      "related_prior_ids": [
+        "kinfa-V020"
+      ],
+      "distinction_from_previous": "공용기기 다운로드 파일 정리와 달리 외부 자료 연결 동의 철회의 효과를 다룬다.",
+      "first_verification": "현행 동의·보관 기준과 화면 안내를 개인정보 담당자와 검토",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kinfa/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kinfa-20261007-2158-04",
+      "contest": "kinfa",
+      "title": "지원사업 성과조사의 무응답 편향 점검",
+      "problem": "연락이 닿는 수혜자만 조사하면 이용이 어려웠던 사람의 경험이 빠져 사업 효과를 과대평가할 수 있다.",
+      "implementation": "평가 담당자가 응답·미응답 집단의 공개 가능한 기초 특성을 비교하고 선택 가능한 짧은 후속조사를 운영한다. 응답하지 않을 권리를 보장하며 결과에 미확인 범위를 표시한다.",
+      "pilot_and_metrics": "사업 1개·평가 1회; 집단별 응답률, 후속 발견 불편, 평가 결과 변화",
+      "related_prior_ids": [
+        "kinfa-L4"
+      ],
+      "distinction_from_previous": "설문과 심사를 분리해 불이익 우려를 낮추는 안과 달리 누가 조사에서 빠졌는지를 평가 설계에 반영한다.",
+      "first_verification": "기존 조사 응답률·후속연락 기준·자료 활용 가능 범위 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kinfa/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "kinfa-20261007-2158-05",
+      "contest": "kinfa",
+      "title": "상담 인력 변경 시 기록 접근권한 정리",
+      "problem": "직무가 끝난 상담자에게 기록 접근권한이 남으면 불필요한 열람 가능성이 생길 수 있다는 점검 가설이다.",
+      "implementation": "인사·위탁계약 종료와 접근권한 회수·이관을 연결하고 가상 계정으로 종료 후 접근이 차단되는지 점검한다. 진행 중 상담의 인계 담당자는 별도로 정한다.",
+      "pilot_and_metrics": "센터 1곳·모의 인사변경 5건; 권한 잔존, 회수시간, 상담 인계 누락",
+      "related_prior_ids": [
+        "kinfa-20261007-1956-05"
+      ],
+      "distinction_from_previous": "AI의 이용자별 기록 분리와 달리 사람의 담당업무 종료에 따른 접근권한 수명을 관리한다.",
+      "first_verification": "현행 계정·위탁인력 종료 절차와 점검 기록 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/kinfa/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "yongin-20261007-2158-01",
+      "contest": "yongin",
+      "title": "공원 벤치의 일어서기 쉬운 형태 확충",
+      "problem": "앉을 곳이 있어도 좌면 높이와 손잡이가 맞지 않으면 일부 주민은 쉬었다가 일어나기 어려울 수 있다.",
+      "implementation": "당사자·설계 전문가가 실제 앉고 일어나는 동작을 확인해 다양한 높이와 지지 손잡이를 가진 좌석을 배치한다. 휠체어 동반 공간도 함께 검토한다.",
+      "pilot_and_metrics": "공원 2곳·6주; 독립 착석·기립 가능률, 이용률, 유지관리비",
+      "related_prior_ids": [
+        "yongin-20261007-1359-05"
+      ],
+      "distinction_from_previous": "놀이터 그늘의 시간대 실효성 평가와 달리 휴식좌석의 신체적 사용성을 다룬다.",
+      "first_verification": "기존 벤치 규격·이용 불편과 개선사업 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/yongin/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "yongin-20261007-2158-02",
+      "contest": "yongin",
+      "title": "공공강좌 난이도의 실제 과제 미리보기",
+      "problem": "초급·중급이라는 이름만 보고 강좌를 고르면 실제 요구 수준과 달라 첫 수업 뒤 포기할 수 있다.",
+      "implementation": "강사가 개인정보 없는 대표 과제·선행기술·수업 속도 예시를 공개하고 수강생이 적합한 반을 고르도록 돕는다. 선발시험으로 쓰지 않는다.",
+      "pilot_and_metrics": "강좌 5개·한 기수; 수준 불일치 중도포기, 반 변경, 안내 이해도",
+      "related_prior_ids": [
+        "yongin-V008"
+      ],
+      "distinction_from_previous": "초기 준비물 구매 부담이 아니라 학습 난이도와 기대 수준의 불일치를 줄인다.",
+      "first_verification": "기존 강좌 안내와 중도포기 사유 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/yongin/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "yongin-20261007-2158-03",
+      "contest": "yongin",
+      "title": "주민참여예산 제안의 유지비 표시",
+      "problem": "시설 설치비만 보고 제안을 선택하면 이후 운영·청소·수리 부담을 주민이 예상하지 못할 수 있다.",
+      "implementation": "검토 담당자가 일회성 설치비와 연간 운영비의 추정 범위·전제·담당을 제안서에 함께 표시한다. 불확실한 비용은 확정 수치처럼 제시하지 않는다.",
+      "pilot_and_metrics": "후보 사업 10건·심의 1회; 유지비 누락, 비용 이해도, 운영주체 미정 사업",
+      "related_prior_ids": [
+        "yongin-E003"
+      ],
+      "distinction_from_previous": "기존 주택 수리를 공동으로 맡기는 안과 달리 새 주민제안 사업의 채택 전에 생애 운영비를 비교한다.",
+      "first_verification": "현행 참여예산 검토서와 운영 중단 사례 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/yongin/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "yongin-20261007-2158-04",
+      "contest": "yongin",
+      "title": "무인민원발급기 장애의 문서별 구분 안내",
+      "problem": "기기가 켜져 있어도 특정 문서만 발급되지 않으면 주민이 여러 번 입력하거나 같은 장애를 반복 경험할 수 있다.",
+      "implementation": "운영기관이 확인 가능한 범위에서 기기 전체 상태와 문서별 일시 제한을 구분해 안내하고 가능한 대체 창구를 연결한다. 민감한 발급내역은 공개하지 않는다.",
+      "pilot_and_metrics": "기기 5대·4주; 발급 불가 반복시도, 헛걸음, 상태 갱신시간",
+      "related_prior_ids": [
+        "yongin-V007"
+      ],
+      "distinction_from_previous": "화장실 수리 중 대체시설 안내와 달리 한 기기 안에서 서비스별로 다른 가용상태를 보여준다.",
+      "first_verification": "기존 장비 상태 수집 기능과 문서별 오류 유형 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/yongin/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
+    },
+    {
+      "id": "yongin-20261007-2158-05",
+      "contest": "yongin",
+      "title": "공동주택 재활용장 비닐 날림 개선",
+      "problem": "바람이 부는 날 가벼운 포장재가 수거함에서 날리면 주변 주민과 청소 담당자가 반복해서 주워야 할 수 있다.",
+      "implementation": "참여 단지가 발생 지점·바람 방향·수거함 구조를 관찰하고 사용성을 해치지 않는 덮개·투입구·배치를 검토한다. 청소시간과 주민 배출 편의도 함께 측정한다.",
+      "pilot_and_metrics": "단지 3곳·6주; 날림 폐기물, 청소시간, 배출 불편",
+      "related_prior_ids": [
+        "yongin-E001"
+      ],
+      "distinction_from_previous": "수거 거절 사유 안내와 달리 정상 배출 후 수거 전 가벼운 폐기물이 흩어지는 시설 문제다.",
+      "first_verification": "현장 발생량과 기존 수거함·청소 계약 확인",
+      "source_status": "new_hypothesis_unverified",
+      "path": "contests/yongin/ideas/2026-10-07-2158.md",
+      "batch": "2026-10-07-2158"
     }
   ],
-  "total_records": 425,
-  "latest_batch": "2026-10-07-1956"
+  "total_records": 450,
+  "latest_batch": "2026-10-07-2158"
 }
