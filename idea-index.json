@@ -1,0 +1,3031 @@
+{
+  "updated_at": "2026-10-07",
+  "notes": "Archive records, not a claim of 325 unique validated policies. Early summaries may include drafts. Read source_status and linked documents.",
+  "ideas": [
+    {
+      "id": "anseong-E001",
+      "contest": "anseong",
+      "title": "소량 소모품 공동구매",
+      "summary": "포장재·청소용품의 최소 주문량 부담을 줄이도록 여러 점포가 묶어 구매하고 나눠 배송한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E002",
+      "contest": "anseong",
+      "title": "임대차 계약 전 영업 적합성 상담",
+      "summary": "점포를 계약하기 전에 업종에 필요한 허가·설비 조건을 확인하도록 상담을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E003",
+      "contest": "anseong",
+      "title": "점포 문턱 개선 공동시공",
+      "summary": "작은 점포의 접근성 개선을 묶어 설계·시공해 개별 공사 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E004",
+      "contest": "anseong",
+      "title": "시장 점포 위치번호 안내",
+      "summary": "점포별 위치번호와 길찾기 표지를 정비해 방문객이 가게를 쉽게 찾게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E005",
+      "contest": "anseong",
+      "title": "홍보 지원의 실제 구매·이익 전환 평가",
+      "summary": "광고 노출보다 실제 구매와 이익 증가를 확인해 마케팅 지원 효과를 평가한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E006",
+      "contest": "anseong",
+      "title": "폐업 점포 집기와 창업자 연결",
+      "summary": "폐업 점포의 사용 가능한 집기를 신규 창업자와 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E007",
+      "contest": "anseong",
+      "title": "소규모 점포 공동 견적 참여",
+      "summary": "여러 점포가 소규모 기관·기업 구매 수요에 공동으로 견적을 제출하도록 지원한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E008",
+      "contest": "anseong",
+      "title": "단체식사 취소분 판매 연결",
+      "summary": "준비된 단체식사 취소분을 안전하게 판매 가능한 조건에서 수요자와 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E009",
+      "contest": "anseong",
+      "title": "상점 휴무와 대체 점포 안내",
+      "summary": "헛걸음을 줄이도록 휴무일과 이용 가능한 다른 점포 정보를 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E010",
+      "contest": "anseong",
+      "title": "보조사업 자부담 분납 검토",
+      "summary": "선납 자부담 때문에 참여를 포기하는 점포를 위해 적용 가능한 분납 방식을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E011",
+      "contest": "anseong",
+      "title": "빈 점포 단기 시험창업",
+      "summary": "장기 계약 전에 빈 점포에서 영업을 시험해 수요와 운영 가능성을 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E012",
+      "contest": "anseong",
+      "title": "소상공인 냉장설비 에너지 진단",
+      "summary": "냉장설비의 운영 상태를 진단하고 개선을 연결해 에너지 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E013",
+      "contest": "anseong",
+      "title": "세탁·수리 접수 상태 기록",
+      "summary": "입고 사진과 작업 요청서를 남겨 맡길 당시 상태 및 요청 내용 분쟁을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E014",
+      "contest": "anseong",
+      "title": "시장 공중화장실 실제 운영 관리",
+      "summary": "공개된 운영시간과 실제 개방·청소 상태를 확인해 이용 불편을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E015",
+      "contest": "anseong",
+      "title": "온라인 판매 정산 차이 점검",
+      "summary": "주문·환불·판매대금 자료를 대조해 플랫폼 정산 차이를 확인하도록 돕는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E016",
+      "contest": "anseong",
+      "title": "악취 불편시간에 맞춘 현장 확인",
+      "summary": "주민이 불편을 느낀 시간과 점검시간을 맞춰 반복 악취의 원인 파악을 돕는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E017",
+      "contest": "anseong",
+      "title": "공공공사 중 점포 출입 동선 유지",
+      "summary": "공사 계획에 점포 접근과 안내를 반영해 영업·방문 불편을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E018",
+      "contest": "anseong",
+      "title": "구매하지 못한 이유를 상권지원에 반영",
+      "summary": "재고 부족 등 구매 포기 이유를 기록해 상권지원의 개선 지점을 찾는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E019",
+      "contest": "anseong",
+      "title": "시장 여러 점포 영수증의 주차혜택 합산",
+      "summary": "여러 점포 구매를 함께 인정할 수 있는 주차혜택 운영을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E020",
+      "contest": "anseong",
+      "title": "키오스크 지원 시 직원 주문 경로 유지",
+      "summary": "디지털 주문이 어려운 고객에게 사람이 받는 주문 경로를 함께 제공한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E021",
+      "contest": "anseong",
+      "title": "은퇴 상인의 기술 유급 전수",
+      "summary": "숙련 상인의 기술을 유급 실습·전수 과정으로 후속 창업자에게 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E022",
+      "contest": "anseong",
+      "title": "1인 가구용 소포장 지원",
+      "summary": "소량 구매 수요에 맞는 상품 구성을 지원해 구매 부담과 잔여품을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E023",
+      "contest": "anseong",
+      "title": "점포 디지털 자산의 관리자 권한 인계",
+      "summary": "외주업체와 계약 종료 때 계정·콘텐츠 관리자 권한이 점주에게 남도록 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E024",
+      "contest": "anseong",
+      "title": "시장 비상통로 적치물의 대체 보관",
+      "summary": "통로에 물건을 두는 원인을 조사해 대체 보관공간을 마련한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E025",
+      "contest": "anseong",
+      "title": "주문 전 추가요금 표시",
+      "summary": "소비자가 옵션·추가비용을 결제 전에 확인하도록 안내를 개선한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E026",
+      "contest": "anseong",
+      "title": "선착순 보조사업의 신청기회 보정",
+      "summary": "일정 기간 접수 후 사업 목적에 맞는 필요도 심사·추첨 등으로 기회 편중을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E027",
+      "contest": "anseong",
+      "title": "농촌 정류장 승차 의사 확인",
+      "summary": "운전자가 대기 승객을 놓치지 않도록 현장에 적합한 표시 장치를 시범 운영한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E028",
+      "contest": "anseong",
+      "title": "공공시설 사고 후 처리 안내 책임자",
+      "summary": "사고자료·보험 문의 경로·진행단계를 안내하는 담당자를 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E029",
+      "contest": "anseong",
+      "title": "다국어 민원 핵심 뜻 재확인",
+      "summary": "요청 내용·필요 행동·기한을 당사자에게 다시 확인해 번역 오해를 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-E030",
+      "contest": "anseong",
+      "title": "소규모 점포 장애인 직무 분리 설계",
+      "summary": "고용 전문기관이 실제 업무와 당사자 희망을 분석해 적합한 유급 직무를 설계한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/anseong/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-V001",
+      "contest": "anseong",
+      "title": "소상공인 포장 인쇄 전 표시사항 점검",
+      "problem": "포장 인쇄 뒤 표시 누락을 발견하면 재인쇄 비용이 든다.",
+      "implementation_and_metrics": "식품 등 한 업종부터 전문가가 시안을 검토한다. 재인쇄 발생률·수정 비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "anseong-V002",
+      "contest": "anseong",
+      "title": "시 사정으로 취소된 강좌의 환불 신청 생략",
+      "problem": "시설 사정으로 취소돼도 이용자가 환불서류를 다시 낼 수 있다.",
+      "implementation_and_metrics": "취소 결정과 결제 내역을 연결하고 필요한 계좌 확인만 추가한다. 환불 소요일·추가 제출 건수.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "anseong-V003",
+      "contest": "anseong",
+      "title": "배달기사 조리 완료 맞춤 도착",
+      "problem": "조리 전에 기사가 몰리면 무급 대기와 입구 혼잡이 생긴다.",
+      "implementation_and_metrics": "준비 예상시간을 갱신하고 배달업체와 호출 시점을 조정한다. 기사 대기시간·혼잡 민원.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "anseong-V004",
+      "contest": "anseong",
+      "title": "부서마다 다른 주소 한 번에 정정 접수",
+      "problem": "주소 표기가 달라 고지서·안내문을 놓칠 수 있다.",
+      "implementation_and_metrics": "오류를 한 번 접수하고 관리부서가 원본을 확인해 정정 결과를 회신한다. 재방문·정정 완료율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "anseong-V005",
+      "contest": "anseong",
+      "title": "행사 물품 주문 변경 확인서",
+      "problem": "준비 후 구두로 수량·사양이 바뀌면 납품 분쟁이 생긴다.",
+      "implementation_and_metrics": "시 지원 행사부터 확정일·변경 요청자·추가비용 합의를 기록한다. 재작업률·대금 분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "anseong-V006",
+      "contest": "anseong",
+      "title": "상점가 해충 방제 공동 일정제",
+      "problem": "개별 방제로는 인접 점포·공용공간 문제를 함께 해결하기 어렵다.",
+      "implementation_and_metrics": "전문업체와 공동 점검 일정을 조정하고 발생 지점을 기록한다. 재발 신고·점포별 관리비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "anseong-V007",
+      "contest": "anseong",
+      "title": "진열가격과 결제가격 불일치 예방",
+      "problem": "가격 변경 때 진열표와 계산대 가격이 달라질 수 있다.",
+      "implementation_and_metrics": "변경 목록으로 두 정보를 함께 확인한다. 가격 정정 결제·고객 이의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "anseong-V008",
+      "contest": "anseong",
+      "title": "명절·수확기 공동 냉장공간 단기 이용",
+      "problem": "특정 기간의 보관 부족 때문에 상시 설비 투자가 부담된다.",
+      "implementation_and_metrics": "적합한 시설의 보관조건·책임·입출고 기록을 갖춰 단기 이용한다. 판매 포기·이용 비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "anseong-V009",
+      "contest": "anseong",
+      "title": "공공구매 평가용 견본 반환 관리",
+      "problem": "견본의 반환 여부·시점을 몰라 작은 업체의 부담이 커진다.",
+      "implementation_and_metrics": "소비 여부·반환일·인수 방법을 미리 명시하고 추적한다. 미반환·반환 소요일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "anseong-V010",
+      "contest": "anseong",
+      "title": "공동신청 민원 각자 확인·한 건 접수",
+      "problem": "대표자가 여러 사람의 서명을 받으러 반복 방문한다.",
+      "implementation_and_metrics": "가능한 업무에서 개별 본인확인으로 동의하고 대표자는 완료 여부를 확인한다. 서명 수집시간·보완 방문.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "anseong-V011",
+      "contest": "anseong",
+      "title": "지원받은 점포 장비의 사후관리",
+      "problem": "장비를 설치해도 수리 담당자·유지비를 몰라 방치할 수 있다.",
+      "implementation_and_metrics": "지원 때 수리창구·소모품비·책임을 확인하고 실제 사용을 점검한다. 가동률·고장 방치일·부담액.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "anseong-V012",
+      "contest": "anseong",
+      "title": "새벽 출근자 공동 아침식사 예약",
+      "problem": "이른 출근자는 식당이 부족하고 점포는 조기 수요를 모른다.",
+      "implementation_and_metrics": "사업장과 음식점이 사전 주문을 모아 순번제 조기 수령을 운영한다. 미판매량·준비시간·추가 수익.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "anseong-V013",
+      "contest": "anseong",
+      "title": "공공행사 구매 신규 지역 점포 발굴",
+      "problem": "기존 거래 점포만 연락받아 다른 점포가 기회를 모른다.",
+      "implementation_and_metrics": "가능한 소액 구매 예정 품목과 참여 상담을 공개한다. 신규 점포·견적 참여율·납품 만족도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "anseong-V014",
+      "contest": "anseong",
+      "title": "장보기 보행로 휴식좌석 연결",
+      "problem": "고령자가 시장과 정류장 사이에서 짐을 들고 쉬기 어렵다.",
+      "implementation_and_metrics": "동선·휴식 수요를 조사해 통행을 막지 않는 좌석과 관리자를 마련한다. 휴식 공백 거리·이용률·통행 불편.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "anseong-V015",
+      "contest": "anseong",
+      "title": "야외 장터 우천 공동 대응계획",
+      "problem": "비가 오면 상품 손실과 개최 여부 혼선이 생긴다.",
+      "implementation_and_metrics": "운영 판단 시점·대체장소 또는 예약 수령·통보 절차를 사전 합의한다. 상품 손실·헛걸음·안내시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "anseong-V016",
+      "contest": "anseong",
+      "title": "시설개선 견적 같은 조건으로 비교",
+      "problem": "견적마다 자재·설치·철거·보증 범위가 다르다.",
+      "implementation_and_metrics": "시 지원사업부터 공통 견적 항목표와 누락 확인을 제공한다. 추가비용률·비교시간·시공 분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "anseong-V017",
+      "contest": "anseong",
+      "title": "시장 장보기 손수레 대여·반납",
+      "problem": "무거운 장바구니 때문에 구매량이나 방문을 줄일 수 있다.",
+      "implementation_and_metrics": "시장 입구와 연결 주차장 등에서 대여·반납한다. 이용률·분실률·운반 불편·관리비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "anseong-V018",
+      "contest": "anseong",
+      "title": "작은 점포 판매상품 리콜 확인",
+      "problem": "리콜 안내를 자기 재고와 대조하기 어렵다.",
+      "implementation_and_metrics": "공식 정보와 등록 상품 식별정보로 확인 후보를 알리고 점주가 절차를 확인한다. 확인시간·대상 재고·오알림.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "anseong-V019",
+      "contest": "anseong",
+      "title": "행사 안내물 내용 교체형 공동규격",
+      "problem": "날짜·장소만 바뀌어도 안내물을 통째로 다시 만든다.",
+      "implementation_and_metrics": "재사용 본체와 교체 정보 영역을 분리하고 보관 책임을 정한다. 재사용 횟수·제작비·폐기물량.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "anseong-V020",
+      "contest": "anseong",
+      "title": "공공공간 지역상품 시험판매 진열대",
+      "problem": "정식 입점 전 소비자 반응을 확인하기 어렵다.",
+      "implementation_and_metrics": "공개 모집·순환 진열을 운영하고 판매·반품·재고 책임을 정한다. 첫 거래·개선 건수·운영비 대비 판매액.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "anseong-V021",
+      "contest": "anseong",
+      "title": "폐업·이전 점포 온라인 예약창 정리",
+      "problem": "실제 영업 종료 뒤 예약·주문창이 남아 헛걸음과 분쟁이 생긴다.",
+      "implementation_and_metrics": "사용 서비스를 확인해 점주가 영업 종료·주소 변경·예약 중단을 처리하도록 돕는다. 잔존 예약창·오주문·헛걸음.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "anseong-V022",
+      "contest": "anseong",
+      "title": "전통시장 결제통신 장애 대응훈련",
+      "problem": "통신 장애 때 대응이 달라 구매 포기가 생긴다.",
+      "implementation_and_metrics": "결제사업자와 신고·복구·승인된 대체결제 절차를 정하고 훈련한다. 중단시간·구매 포기·중복결제.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "anseong-V023",
+      "contest": "anseong",
+      "title": "소상공인 지원교육 영업시간 부담 축소",
+      "problem": "필수 교육이 영업시간과 겹쳐 매출 손실이 생길 수 있다.",
+      "implementation_and_metrics": "대면 필요 부분과 나눠 들을 부분을 구분하고 시간대를 선택한다. 휴업시간·이수율·학습 성취도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "anseong-V024",
+      "contest": "anseong",
+      "title": "인기 점포 대기줄과 이웃 출입구 분리",
+      "problem": "줄이 옆 가게·보행로를 막아 갈등이 생긴다.",
+      "implementation_and_metrics": "현장 조사 후 대기 위치와 호출 방식을 합의한다. 막힘 시간·보행 우회·점포 민원.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "anseong-V025",
+      "contest": "anseong",
+      "title": "보행자에게 향하는 실외기 열풍 개선",
+      "problem": "좁은 상점가에서 열풍이 보행자·대기 고객에게 향한다.",
+      "implementation_and_metrics": "전문가가 방열·설치 조건을 검토해 위치·방향 개선을 지원한다. 열풍 불편·설비 이상·개선비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/anseong/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "gyeongbuk-E001",
+      "contest": "gyeongbuk",
+      "title": "시군 경계를 넘는 돌봄 이용",
+      "summary": "인접 시군 주민도 필요한 돌봄을 이용하도록 자격과 비용 분담을 협의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E002",
+      "contest": "gyeongbuk",
+      "title": "마을별 소규모 집수리 묶음 방문",
+      "summary": "작은 수리 수요를 모아 기술자의 방문 동선을 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E003",
+      "contest": "gyeongbuk",
+      "title": "외국인 계절근로자 계약·급여 다국어 기록",
+      "summary": "당사자가 근로조건과 지급 내역을 이해하고 확인할 수 있게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E004",
+      "contest": "gyeongbuk",
+      "title": "농촌 문화강좌 공동 수요 모집",
+      "summary": "마을별로 부족한 강좌 수요를 모아 운영 가능 규모를 만든다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E005",
+      "contest": "gyeongbuk",
+      "title": "지방 보조사업 정산 양식 공통화",
+      "summary": "시군마다 다른 서식 때문에 반복 작성하는 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E006",
+      "contest": "gyeongbuk",
+      "title": "소량 영농폐기물 수거 연결",
+      "summary": "작은 농가의 폐기물도 모아 수거할 수 있도록 일정과 조건을 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E007",
+      "contest": "gyeongbuk",
+      "title": "재난 피해 증빙 한 번 수집",
+      "summary": "필요한 피해자료를 공통 기준으로 정리해 여러 지원 절차에서 반복 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E008",
+      "contest": "gyeongbuk",
+      "title": "계절근로자 숙소 비수기 활용",
+      "summary": "비수기 유휴 숙소의 적합한 활용 수요와 운영 조건을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E009",
+      "contest": "gyeongbuk",
+      "title": "마을방송 전화 다시 듣기",
+      "summary": "방송을 놓친 주민이 필요한 내용을 전화로 재확인하도록 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E010",
+      "contest": "gyeongbuk",
+      "title": "농번기 찾아가는 행정업무",
+      "summary": "바쁜 농번기에 주민 이동을 줄이도록 방문 행정 일정을 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E011",
+      "contest": "gyeongbuk",
+      "title": "농촌 구직자 비대면 면접공간",
+      "summary": "안정적인 통신과 장비가 있는 면접 공간을 제공한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E012",
+      "contest": "gyeongbuk",
+      "title": "중소기업 시험·인증 사전계획",
+      "summary": "필요 시험과 절차를 미리 확인해 불필요한 재시험을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E013",
+      "contest": "gyeongbuk",
+      "title": "유실 어구 신고와 수거 연결",
+      "summary": "어구 유실 정보를 회수 담당자와 연결해 처리 공백을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E014",
+      "contest": "gyeongbuk",
+      "title": "마을 수도시설 관리자의 예비인력",
+      "summary": "담당자 부재에도 필요한 관리가 이어지도록 예비 담당자를 준비한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E015",
+      "contest": "gyeongbuk",
+      "title": "농지 임대 전후 상태 확인",
+      "summary": "농지 상태와 반환 조건을 기록해 임대 종료 때 갈등을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E016",
+      "contest": "gyeongbuk",
+      "title": "농촌 온라인 구매 반품 공동수거",
+      "summary": "분산된 반품 수요를 모아 주민의 이동·배송 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E017",
+      "contest": "gyeongbuk",
+      "title": "인접 농가 공동 야생동물 피해 예방",
+      "summary": "농가별 대응의 빈틈을 줄이도록 비살상 예방 조치를 함께 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E018",
+      "contest": "gyeongbuk",
+      "title": "농산물 등급 이의의 자료 보존·재확인",
+      "summary": "등급 판정 자료를 남기고 이견을 검토할 경로를 마련한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E019",
+      "contest": "gyeongbuk",
+      "title": "스마트농업 데이터 이전 조건",
+      "summary": "지원 설비 도입 때 데이터 내보내기와 업체 변경 시 인계를 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E020",
+      "contest": "gyeongbuk",
+      "title": "시군 경계 대중교통 환승비용 조정",
+      "summary": "생활권 이동에 맞춰 관계기관이 환승 조건과 비용 분담을 협의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E021",
+      "contest": "gyeongbuk",
+      "title": "공공개발 전 농기계 접근 확인",
+      "summary": "도로·시설 개발로 농기계 진입이 막히지 않도록 현장 접근 조건을 점검한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E022",
+      "contest": "gyeongbuk",
+      "title": "퇴원 후 농촌 재가생활 지원 연결",
+      "summary": "퇴원 일정과 생활지원 준비를 연결해 집에 돌아온 뒤의 공백을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E023",
+      "contest": "gyeongbuk",
+      "title": "농촌 통신 음영의 실제 이용 조사",
+      "summary": "생활·작업 장소에서 통신이 끊기는 지점을 확인해 개선 우선순위를 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E024",
+      "contest": "gyeongbuk",
+      "title": "농산물 원산지 증빙의 거래처 간 재사용",
+      "summary": "공통 확인 가능한 자료를 정리해 구매처마다 반복 제출하는 부담을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E025",
+      "contest": "gyeongbuk",
+      "title": "고령농 입원 시 필수 농작업 인계",
+      "summary": "희망 농가가 필수작업·연락처·접근권한을 준비하고 검증된 인력을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E026",
+      "contest": "gyeongbuk",
+      "title": "농번기 폭염 대응 공동작업 협약",
+      "summary": "농가·작업업체·운송업체가 위험 시간대 일정 변경과 비용 분담을 사전 협의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E027",
+      "contest": "gyeongbuk",
+      "title": "소규모 문화유산 보수 전문인력 연결",
+      "summary": "적격 전문가의 점검·승인·보수 일정을 연결해 손상 방치를 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E028",
+      "contest": "gyeongbuk",
+      "title": "농어촌 전학생 학습 공백 인계",
+      "summary": "학교 간 진도와 필요한 지원을 확인해 보충학습을 제공한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E029",
+      "contest": "gyeongbuk",
+      "title": "관광할인 자격 반복증명 축소",
+      "summary": "참여시설 간 인정 가능한 공통 자격 확인방식을 협의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-E030",
+      "contest": "gyeongbuk",
+      "title": "보조기기 수리 중 대체기기 연결",
+      "summary": "전문기관이 적합한 대체기기와 운송을 연결해 생활 중단을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/gyeongbuk/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "gyeongbuk-V001",
+      "contest": "gyeongbuk",
+      "title": "계약재배 파종 전·출하 전 이중 확인",
+      "problem": "재배 후 주문 축소를 늦게 알면 대응이 어렵다.",
+      "implementation_and_metrics": "주요 시점에 물량과 변경 이력을 확인하고 취소비용 조건은 전문검토 후 합의한다. 늦은 변경률·판로 전환 확보일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "gyeongbuk-V002",
+      "contest": "gyeongbuk",
+      "title": "농촌 숙박 실측 접근성 정보표",
+      "problem": "이용 가능 표시만으로 문·욕실 통과 가능성을 알기 어렵다.",
+      "implementation_and_metrics": "문폭·계단·침대·욕실을 같은 양식으로 실측하고 갱신한다. 정보 불일치·현장 이용 포기.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "gyeongbuk-V003",
+      "contest": "gyeongbuk",
+      "title": "기부물품 받기 전 수요 확인",
+      "problem": "필요하지 않은 물품이 몰려 보관·분류 부담이 생긴다.",
+      "implementation_and_metrics": "품목·규격·수량·수령일을 등록해 배송 전 매칭한다. 미사용 비율·보관 부담.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "gyeongbuk-V004",
+      "contest": "gyeongbuk",
+      "title": "농촌 내비게이션 오안내 공동정정",
+      "problem": "좁은 농로·막힌 길로 차량이 반복 진입한다.",
+      "implementation_and_metrics": "도로관리자가 신고를 확인해 지도사업자에 정정 요청하고 반영을 추적한다. 재신고·반영 소요일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "gyeongbuk-V005",
+      "contest": "gyeongbuk",
+      "title": "수출상담 규격 역확인 지원",
+      "problem": "번역 문의의 단위·재질·포장을 오해해 재견적·재제작한다.",
+      "implementation_and_metrics": "기술통역으로 양측 언어 확인표를 만들고 구매자 확인 후 진행한다. 재견적률·재제작.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "gyeongbuk-V006",
+      "contest": "gyeongbuk",
+      "title": "마을 농업용수 이용순서 공동조정",
+      "problem": "물 부족 시 순서가 불명확해 다툼과 대기가 생긴다.",
+      "implementation_and_metrics": "관리자·농가가 공급 여건에 맞는 일정을 합의하고 변경을 공유한다. 일정 충돌·대기·분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "gyeongbuk-V007",
+      "contest": "gyeongbuk",
+      "title": "농기계 정비 농번기 집중 완화",
+      "problem": "정비 요청이 몰려 농작업이 늦어진다.",
+      "implementation_and_metrics": "주요 작업일 전 점검을 분산 예약하고 정비 소요시간을 안내한다. 정비 대기일·작업 지연일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "gyeongbuk-V008",
+      "contest": "gyeongbuk",
+      "title": "기숙사 퇴거 청년 주거 공백 연결",
+      "problem": "이직·계약 종료와 숙소 퇴거가 겹친다.",
+      "implementation_and_metrics": "사업장의 사전 안내와 시군 주거상담·임시숙소를 연결한다. 주거 공백일·연계 완료율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "gyeongbuk-V009",
+      "contest": "gyeongbuk",
+      "title": "마을 공동재산 수입·지출 설명서",
+      "problem": "주민이 공동시설 사용료·유지비 기록을 이해하기 어렵다.",
+      "implementation_and_metrics": "주민 동의로 수입·지출·적립금·수선계획을 쉽게 보고한다. 이해도·회계 문의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "gyeongbuk-V010",
+      "contest": "gyeongbuk",
+      "title": "축제 판매대금 정산 예정일 공개",
+      "problem": "소규모 판매자가 정산 항목과 입금일을 모른다.",
+      "implementation_and_metrics": "도 지원 축제에서 판매·수수료·취소 확인과 이견접수·정산일을 사전 명시한다. 정산 지연·이의 처리기간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "gyeongbuk-V011",
+      "contest": "gyeongbuk",
+      "title": "방학에도 이어지는 농촌 생활버스",
+      "problem": "학생 수요 감소에 따른 운행 축소로 주민 이동이 불편해질 수 있다.",
+      "implementation_and_metrics": "방학 전 비학생 수요를 조사해 최소 운행·대체 이동편을 협의한다. 이동 포기·대기·이용자당 운영비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "gyeongbuk-V012",
+      "contest": "gyeongbuk",
+      "title": "마을 공동급식 조리인력 휴무 보장",
+      "problem": "특정 주민의 조리 부담과 부재 시 급식 중단이 생긴다.",
+      "implementation_and_metrics": "업무량·휴무를 정하고 교육받은 유급 대체인력을 공동 확보한다. 급식 중단일·노동시간·확보율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "gyeongbuk-V013",
+      "contest": "gyeongbuk",
+      "title": "농산물 택배 파손 원인 공동분석",
+      "problem": "농가가 포장·취급·배송 중 개선 단계를 알기 어렵다.",
+      "implementation_and_metrics": "농가·택배사·전문가가 유형을 분류하고 비교 배송한다. 파손률·재배송비·포장재량.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "gyeongbuk-V014",
+      "contest": "gyeongbuk",
+      "title": "소규모 공장 증설 전 기반시설 상담",
+      "problem": "설비 주문 후 전력·용수 조건을 알아 가동이 지연된다.",
+      "implementation_and_metrics": "공급기관과 확인 사항·절차·선후 일정을 정리한다. 설비 유휴일·계획 변경·상담기간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "gyeongbuk-V015",
+      "contest": "gyeongbuk",
+      "title": "과수 전정가지 공동 수거·활용",
+      "problem": "개별 처리처를 찾기 어려워 가지가 쌓인다.",
+      "implementation_and_metrics": "발생 시기·물량을 모아 적격 업체와 연결하고 품질조건을 안내한다. 방치량·농가 처리비·활용률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "gyeongbuk-V016",
+      "contest": "gyeongbuk",
+      "title": "이주 전 유급 지역 일자리 체험",
+      "problem": "공고와 실제 업무·생활 차이로 조기 퇴사할 수 있다.",
+      "implementation_and_metrics": "참여기업 단기 유급 체험에 숙소·교통·업무범위를 사전 공개한다. 취업 유지율·기대 차이·참여 비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "gyeongbuk-V017",
+      "contest": "gyeongbuk",
+      "title": "농촌 침구 세탁 마을별 수거일",
+      "problem": "시설이 멀고 차량이 없어 이불을 세탁하기 어렵다.",
+      "implementation_and_metrics": "세탁업체와 수거일을 정하고 식별·인수·배송을 관리한다. 이동시간·분실·대기일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "gyeongbuk-V018",
+      "contest": "gyeongbuk",
+      "title": "여객선 결항 시 화물 보관·재수령",
+      "problem": "결항 뒤 화물 위치·보관조건·인수 방법을 알기 어렵다.",
+      "implementation_and_metrics": "항만·운송사업자와 보관 책임·연락처·재운송 순서를 확인한다. 위치 문의·인수 실패·분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "gyeongbuk-V019",
+      "contest": "gyeongbuk",
+      "title": "이주배경 아동 보호자 학교소통 통역",
+      "problem": "상담·준비물·현장학습 안내를 이해하기 어렵다.",
+      "implementation_and_metrics": "교육청·가족기관이 통역 예약과 전달내용 확인을 지원한다. 안내 오해·상담 참여·재설명시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "gyeongbuk-V020",
+      "contest": "gyeongbuk",
+      "title": "재난 임시주거 배정 전 생활조건 확인",
+      "problem": "숙소가 이동보조기·가구원·통학·출근 조건과 맞지 않을 수 있다.",
+      "implementation_and_metrics": "최소 필요조건과 실제 숙소정보를 대조한다. 재배정률·활동 중단일·입주 지연.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "gyeongbuk-V021",
+      "contest": "gyeongbuk",
+      "title": "빌린 농기계 운반까지 연결하는 예약",
+      "problem": "장비를 빌려도 운반차량이 없으면 이용이 어렵다.",
+      "implementation_and_metrics": "임대사업소·적격 운송업체가 예약·배송·회수를 조정한다. 운반 사유 취소·이동시간·운송비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "gyeongbuk-V022",
+      "contest": "gyeongbuk",
+      "title": "외딴 농작업 장소 구조 위치표지",
+      "problem": "밭·과수원 사고 위치를 주소로 전달하기 어렵다.",
+      "implementation_and_metrics": "소방 등과 현장에서 읽을 수 있는 위치표지·접근정보를 정비한다. 모의신고 위치확인시간·진입로 오인.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "gyeongbuk-V023",
+      "contest": "gyeongbuk",
+      "title": "공동 가공시설 품목 전환시간 예약",
+      "problem": "앞 이용자의 세척·정리 때문에 다음 작업이 늦어진다.",
+      "implementation_and_metrics": "전문가가 정한 품목 전환조건을 예약·인수 점검에 반영한다. 시작 지연·재세척·이용률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "gyeongbuk-V024",
+      "contest": "gyeongbuk",
+      "title": "농촌 수확체험 실제 체험량 사전확인",
+      "problem": "예약 기대량과 현장 제공량이 달라 불만이 생긴다.",
+      "implementation_and_metrics": "작황·제공범위를 방문 전에 알리고 변경 시 대안을 제시한다. 분쟁·취소·정보 차이.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "gyeongbuk-V025",
+      "contest": "gyeongbuk",
+      "title": "시군 경계 관광지 쓰레기 공동관리",
+      "problem": "하나의 관광공간에 관리경계가 나뉘어 수거 공백이 생긴다.",
+      "implementation_and_metrics": "인접 시군이 담당·수거·비용·민원 인계를 합의한다. 공백시간·이송 횟수·청결도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/gyeongbuk/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kwater-E001",
+      "contest": "kwater",
+      "title": "단수 시 이동취약 주민 물 전달",
+      "summary": "배급소에 오기 어려운 주민의 요청을 받아 전달을 지원한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E002",
+      "contest": "kwater",
+      "title": "본관 복구와 건물 실제 급수 구분",
+      "summary": "본관 공급 재개 뒤에도 건물에서 물이 나오는지 확인해 실제 복구 상태를 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E003",
+      "contest": "kwater",
+      "title": "누수 수리 증빙과 요금 감면 절차 연결",
+      "summary": "해당 제도에 필요한 수리 자료와 신청 경로를 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E004",
+      "contest": "kwater",
+      "title": "명의자 외 실거주 세입자 단수 안내",
+      "summary": "동의한 거주자도 단수 정보를 받도록 전달 경로를 보완한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E005",
+      "contest": "kwater",
+      "title": "접근 가능한 임시급수 장소",
+      "summary": "보행·휠체어 접근과 물 운반 조건을 고려해 배급 장소를 운영한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E006",
+      "contest": "kwater",
+      "title": "공공관로와 건물 내부 배관 원인 확인",
+      "summary": "급수 불편의 책임 경계를 조사해 맞는 담당자와 수리 경로를 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E007",
+      "contest": "kwater",
+      "title": "절수기기 설치 후 실제 절감 확인",
+      "summary": "설치 수량뿐 아니라 사용량 변화를 확인해 사업 효과를 평가한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E008",
+      "contest": "kwater",
+      "title": "산업용수 정비와 기업 휴지기 조정",
+      "summary": "기업의 가동 중단 일정과 계획정비를 협의해 생산 영향을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E009",
+      "contest": "kwater",
+      "title": "가정 수질검사 방문 일정 조정",
+      "summary": "방문 가능시간 확인과 변경 안내로 헛방문을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E010",
+      "contest": "kwater",
+      "title": "댐 부유쓰레기 반복 유입원 대응",
+      "summary": "자주 유입되는 지점과 시기를 확인해 수거·예방을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E011",
+      "contest": "kwater",
+      "title": "수도계량기 반복 동파의 구조적 개선",
+      "summary": "같은 곳의 동파가 반복되는 원인을 전문가가 확인해 보완한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E012",
+      "contest": "kwater",
+      "title": "계량기 교체 전후 지침 확인",
+      "summary": "교체 시 읽은 수치를 기록·확인해 사용량 관련 이견을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E013",
+      "contest": "kwater",
+      "title": "공공 물정보 API 변경 사전안내",
+      "summary": "데이터 규격과 버전 변경을 이용자에게 알려 연계 서비스 중단을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E014",
+      "contest": "kwater",
+      "title": "가뭄 시 산업체 자발적 수요조정 협약",
+      "summary": "기업과 조정 가능 물량·시기를 사전 합의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E015",
+      "contest": "kwater",
+      "title": "산업입지 결정 전 용수 공급조건 확인",
+      "summary": "부지 선택 전에 공급 가능성·물량·절차를 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E016",
+      "contest": "kwater",
+      "title": "장기 미사용 건물 수도 재사용 점검",
+      "summary": "재입주 때 건물 관리자와 운영기관이 필요한 전문 점검을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E017",
+      "contest": "kwater",
+      "title": "상수도와 다른 시설의 도로 굴착 일정 조정",
+      "summary": "계획공사 위치와 시기를 대조해 반복 굴착을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E018",
+      "contest": "kwater",
+      "title": "수질정보 적용 범위 표시",
+      "summary": "측정 위치·시점·대상을 설명해 가정 수도꼭지 결과와 혼동하지 않게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E019",
+      "contest": "kwater",
+      "title": "재이용수 시설 투자 전 수요처 확보",
+      "summary": "실제 용도·요구 수질·물량·시기를 확인해 공급과 수요를 맞춘다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E020",
+      "contest": "kwater",
+      "title": "물산업 실증시험 결과 재사용",
+      "summary": "공통 인정 항목과 현장별 추가 검증 조건을 정해 중복 시험을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E021",
+      "contest": "kwater",
+      "title": "이사일 기준 수도요금 정산 확인",
+      "summary": "검침·정산·자동이체 종료와 신규 등록 상태를 구분해 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E022",
+      "contest": "kwater",
+      "title": "주거지 인접 수도시설 소음·진동 개선",
+      "summary": "주민 불편시간과 운영기록을 대조하고 전문 측정으로 개선한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E023",
+      "contest": "kwater",
+      "title": "댐 수위 변동을 고려한 계류시설 관리",
+      "summary": "이용 가능한 조건과 조정·점검 책임을 운영자와 합의한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E024",
+      "contest": "kwater",
+      "title": "수도설비 부품 단종 대비계획",
+      "summary": "중요 부품 공급기간과 대체품 검증 계획을 준비한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-E025",
+      "contest": "kwater",
+      "title": "관로 투자에 필수 생활서비스 중단 영향 반영",
+      "summary": "노후도와 함께 돌봄·급식 등 공급 중단의 영향을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kwater/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kwater-V001",
+      "contest": "kwater",
+      "title": "일시사용토지·지장물 보상 진행상황 확인",
+      "problem": "온라인 조회 대상 밖 항목은 별도로 문의해야 한다.",
+      "implementation_and_metrics": "본인확인 후 처리단계·보완자료·창구 조회를 확대한다. 반복 문의·보완 소요일. 당시 공식 안내 근거: https://www.kwater.or.kr/cust/sub04/sub06/mycomp/mycompPage.do?s_mid=80 (2026-10-07 확인).",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kwater-V002",
+      "contest": "kwater",
+      "title": "수도공사 준공도면과 실제 시공 일치 확인",
+      "problem": "기록과 현장이 다르면 보수 때 재탐색·재굴착한다.",
+      "implementation_and_metrics": "되메우기 전 검측과 도면을 대조해 인수 전 정정한다. 상세자료는 권한자만 이용. 불일치율·재탐색시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kwater-V003",
+      "contest": "kwater",
+      "title": "관로 자재 보호포장 회수 계약",
+      "problem": "받침대·보호포장이 일회성 폐기물이 된다.",
+      "implementation_and_metrics": "납품계약에 회수일·품질조건을 넣고 외부 포장부터 순환한다. 회수율·폐기물량.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kwater-V004",
+      "contest": "kwater",
+      "title": "수도고지서 동일내용 다중형식",
+      "problem": "작은 글씨·복잡한 항목 때문에 직접 확인이 어렵다.",
+      "implementation_and_metrics": "큰글씨·화면낭독 문서·전화 음성안내를 선택하게 한다. 이해도·대리 확인 의존도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kwater-V005",
+      "contest": "kwater",
+      "title": "물기업 실증시험 책임 사전합의",
+      "problem": "설비 손상·중단 때 책임과 복구범위가 불분명하다.",
+      "implementation_and_metrics": "운영범위·중단 판단자·복구·데이터 권리·보험을 합의한다. 협의기간·실증 분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kwater-V006",
+      "contest": "kwater",
+      "title": "수질검사 채수 전 준비 확인",
+      "problem": "맞지 않는 용기·방법으로 시료를 준비해 재제출한다.",
+      "implementation_and_metrics": "검사기관이 항목별 용기·운송·채수 일정을 안내한다. 접수 불가율·재채수 비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kwater-V007",
+      "contest": "kwater",
+      "title": "공공 음수대 사용가능 상태 관리",
+      "problem": "지도에 있어도 고장·청소·동절기 중단을 현장에서 알게 된다.",
+      "implementation_and_metrics": "상태·확인일 갱신과 고장 처리 추적을 운영한다. 헛걸음·고장 방치시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kwater-V008",
+      "contest": "kwater",
+      "title": "댐 탐방로 부분폐쇄 우회·회차 안내",
+      "problem": "어느 구간에서 돌아가야 할지 몰라 불필요하게 이동한다.",
+      "implementation_and_metrics": "권한 있는 탐방로에 폐쇄구간·회차지점을 표시하고 재개방 시 제거를 확인한다. 폐쇄구간 접근·안내 불일치.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kwater-V009",
+      "contest": "kwater",
+      "title": "물정보 결측·잠정·확정 구분",
+      "problem": "비거나 늦은 자료를 최신 정상값으로 오해한다.",
+      "implementation_and_metrics": "측정시각·상태·수정이력과 결측 해석 안내를 제공한다. 해석 오류·문의·수정 반영시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kwater-V010",
+      "contest": "kwater",
+      "title": "현장 점검기록 오프라인 입력",
+      "problem": "통신 불안정으로 종이 기록과 재입력이 반복된다.",
+      "implementation_and_metrics": "허용된 업무기기에서 작성 후 동기화하고 충돌은 담당자가 확인한다. 재입력시간·누락·동기화 오류.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kwater-V011",
+      "contest": "kwater",
+      "title": "수도고지서 실측·추정 사용량 구분",
+      "problem": "추정 사용량과 후속 정산을 몰라 갑작스러운 요금 증가로 느낀다.",
+      "implementation_and_metrics": "해당 업무의 산정유형·대상기간·정산 내역을 함께 설명한다. 이해도·정산 이의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kwater-V012",
+      "contest": "kwater",
+      "title": "비상급수 물품 사용기한·재고 공동관리",
+      "problem": "분산 재고의 부족·기한 임박을 늦게 안다.",
+      "implementation_and_metrics": "보관조건·기한·재고를 관리하고 기준에 맞게 평시 수요와 순환한다. 폐기량·재고 차이·출고 준비시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kwater-V013",
+      "contest": "kwater",
+      "title": "수도설비 구매의 실제 운영비 검증",
+      "problem": "구매가격만 보면 유지보수·에너지 비용을 놓친다.",
+      "implementation_and_metrics": "동일 조건에서 운영비를 비교하고 설치 후 실측과 대조한다. 예상·실제 차이·총운영비·성능.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kwater-V014",
+      "contest": "kwater",
+      "title": "시민 물환경 관측 결과 회신",
+      "problem": "시민이 제출한 관측자료의 활용을 모르면 참여가 끊긴다.",
+      "implementation_and_metrics": "전문가 검토 결과·보완점·활용사례를 회신한다. 유효자료·지속참여·정책 활용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kwater-V015",
+      "contest": "kwater",
+      "title": "수도공사 도로복구 후 강우·통행 점검",
+      "problem": "복구 직후 보이지 않던 물고임·포장 불편이 나타난다.",
+      "implementation_and_metrics": "도로관리기관과 후속 점검시점·보완 책임을 정해 신고와 연결한다. 재민원·조치기간·재보수비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kwater-V016",
+      "contest": "kwater",
+      "title": "공동계량 건물 요금 배분 설명",
+      "problem": "전체 요금과 세대 청구액의 관계를 몰라 갈등이 생긴다.",
+      "implementation_and_metrics": "건물의 합의된 기준·공용분·계산내역을 설명하는 양식을 제공한다. 배분 문의·계산 오류·이해도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kwater-V017",
+      "contest": "kwater",
+      "title": "물관리 센서 데이터 이전 확인",
+      "problem": "공급업체 변경 때 과거 자료를 옮기기 어려울 수 있다.",
+      "implementation_and_metrics": "구매 시 소유·내보내기 형식·종료 인계를 정하고 이전을 시험한다. 성공률·교체기간·전환비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kwater-V018",
+      "contest": "kwater",
+      "title": "댐 하류 임시체류객 대피훈련",
+      "problem": "캠핑·낚시 방문자가 주민 중심 안내에서 빠질 수 있다.",
+      "implementation_and_metrics": "운영자·지자체와 체류객 안내·현장확인·동선을 점검한다. 상시 위치수집 없이 운영. 도달률·동선 혼선.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kwater-V019",
+      "contest": "kwater",
+      "title": "폐지된 물관리 시설 부지 사후정비",
+      "problem": "이용 종료 뒤 출입·구조물·환경정비 책임이 불분명하다.",
+      "implementation_and_metrics": "종료 단계에서 정비목표·예산·담당·완료점검을 정한다. 미정비 수·민원·완료율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kwater-V020",
+      "contest": "kwater",
+      "title": "수질검사 항목별 견적 설명",
+      "problem": "목적과 항목의 관계를 몰라 누락·불필요 검사를 고른다.",
+      "implementation_and_metrics": "담당자가 선택근거·비용·결과범위를 설명하고 의뢰자가 확정한다. 추가 의뢰·비용 이의·이해도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kwater-V021",
+      "contest": "kwater",
+      "title": "수질검사 성적서 진위·최신본 확인",
+      "problem": "사본의 진위와 정정 여부를 알기 어렵다.",
+      "implementation_and_metrics": "번호·QR로 발급·정정을 확인하되 비공개 정보는 노출하지 않는다. 확인시간·잘못된 사본·문의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kwater-V022",
+      "contest": "kwater",
+      "title": "수도시설 반복 경보 정리",
+      "problem": "같은 원인의 여러 경보로 확인 우선순위 판단이 어렵다.",
+      "implementation_and_metrics": "전문가가 원인·중요도·중복을 검토하고 모의상황으로 검증한다. 중요 경보 확인시간·반복·누락.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kwater-V023",
+      "contest": "kwater",
+      "title": "임시급수 설치 시 보행동선 점검",
+      "problem": "호스·배관이 출입구·보행로를 가로지른다.",
+      "implementation_and_metrics": "전문검토 후 보호시설·우회안내·현장점검을 운영한다. 통행 방해시간·우회거리·민원.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kwater-V024",
+      "contest": "kwater",
+      "title": "수도계량기 성능 이의 검사 설명",
+      "problem": "검사방법과 결과 해석을 알기 어렵다.",
+      "implementation_and_metrics": "적용 절차의 방법·비용조건·판정근거를 사전 안내한다. 이해도·반복 이의·기간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kwater-V025",
+      "contest": "kwater",
+      "title": "댐 주변 지원사업 계절별 이용 평가",
+      "problem": "연간 이용자 수만 보면 계절·주민의 실제 사용 차이를 놓친다.",
+      "implementation_and_metrics": "계절·주민이용·운영비로 평가해 운영을 조정한다. 주민 이용일·비수기 활용·이용당 비용.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kwater/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kinfa-E001",
+      "contest": "kinfa",
+      "title": "일하는 청년의 야간 금융상담",
+      "summary": "근무 때문에 낮에 상담하기 어려운 청년을 위한 시간대를 마련한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E002",
+      "contest": "kinfa",
+      "title": "첫 급여 전 취업 준비비 연결",
+      "summary": "취업 시작과 첫 급여 사이 필요한 준비비 지원을 관계기관과 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E003",
+      "contest": "kinfa",
+      "title": "AI 서류 인식 결과 원문 대조",
+      "summary": "인식한 금액·날짜를 원문과 비교해 오류를 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E004",
+      "contest": "kinfa",
+      "title": "청년 지원예산 배분 참여",
+      "summary": "청년 참여자가 사업 우선순위와 예산 배분에 의견을 내도록 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E005",
+      "contest": "kinfa",
+      "title": "AI 상담 시험용 합성자료 공개",
+      "summary": "실제 개인정보 대신 가상 사례로 공공 AI 상담 품질을 평가하도록 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E006",
+      "contest": "kinfa",
+      "title": "청년 지원금 지급 지연 단계 안내",
+      "summary": "처리단계와 예상 지급 시점을 이해하기 쉽게 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E007",
+      "contest": "kinfa",
+      "title": "공식 상담원 신원 확인",
+      "summary": "상담 사칭을 구분할 수 있도록 공식 경로로 신원을 확인하게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E008",
+      "contest": "kinfa",
+      "title": "정책 변경 시 상담매뉴얼 불일치 점검",
+      "summary": "변경된 정책과 안내자료 사이의 모순을 AI와 담당자가 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E009",
+      "contest": "kinfa",
+      "title": "중단한 신청 이어하기",
+      "summary": "저장한 내용에서 신청을 재개해 반복 입력을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E010",
+      "contest": "kinfa",
+      "title": "지원·상담 대기기간 통계 공개",
+      "summary": "이용자가 실제 대기 범위를 파악할 수 있도록 기간 통계를 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E011",
+      "contest": "kinfa",
+      "title": "청각·언어장애인의 문자 상담 완결",
+      "summary": "처음 접수부터 후속 안내까지 문자로 이용 가능한 경로를 만든다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E012",
+      "contest": "kinfa",
+      "title": "가상자료로 신청 연습",
+      "summary": "개인정보를 넣기 전 모의 신청으로 절차를 익히도록 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E013",
+      "contest": "kinfa",
+      "title": "청년 가족돌봄자의 취업지원 공백 연결",
+      "summary": "취업 준비와 돌봄이 충돌할 때 관련 지원을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E014",
+      "contest": "kinfa",
+      "title": "AI로 불필요한 개인정보 가림",
+      "summary": "제출 문서에 포함된 불필요한 정보가 전달되지 않도록 확인한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E015",
+      "contest": "kinfa",
+      "title": "약정된 혜택 실제 적용 확인",
+      "summary": "대상자가 충족한 조건에 따른 혜택이 적용됐는지 확인하도록 돕는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E016",
+      "contest": "kinfa",
+      "title": "금융교육 뒤 실제 생활습관 확인",
+      "summary": "교육 수료 뒤 선택한 행동이 이어졌는지 확인해 지원을 보완한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E017",
+      "contest": "kinfa",
+      "title": "본인 명의 휴대전화 없는 신청자 경로",
+      "summary": "업무별 허용되는 다른 본인확인 방법을 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E018",
+      "contest": "kinfa",
+      "title": "조용한 상담 알림 선택",
+      "summary": "이용자가 내용 노출을 줄일 알림 채널·시간을 선택하도록 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E019",
+      "contest": "kinfa",
+      "title": "지원사업 중복·병행 가능 여부 사전확인",
+      "summary": "참여 가능한 조합과 확인이 필요한 조건을 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E020",
+      "contest": "kinfa",
+      "title": "서비스 미이용 청년의 정책참여",
+      "summary": "기존 참여자만으로 놓치는 불편을 미이용자 의견에서 찾는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E021",
+      "contest": "kinfa",
+      "title": "불규칙 소득 청년 증빙 경로 안내",
+      "summary": "일하는 형태별로 인정 가능한 소득자료 준비 경로를 설명한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E022",
+      "contest": "kinfa",
+      "title": "상담 복잡도별 시간 배정",
+      "summary": "복합상담에 필요한 시간을 배정해 반복 예약을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E023",
+      "contest": "kinfa",
+      "title": "근거 부족을 인정하는 AI 상담",
+      "summary": "승인된 근거가 없는 질문은 단정하지 않고 담당자 확인으로 넘긴다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E024",
+      "contest": "kinfa",
+      "title": "청년 저축 중단 후 재개 지원",
+      "summary": "기존 상품의 중지·재개 규정에 맞는 경로를 안내하고 개선을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E025",
+      "contest": "kinfa",
+      "title": "취업 연계 시 선납 비용 요구 점검",
+      "summary": "교육비·보증금 요구가 있으면 전문기관 확인을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E026",
+      "contest": "kinfa",
+      "title": "청년 주거계약 전 전문상담 연결",
+      "summary": "희망자를 주거·법률 전문기관과 연결해 계약 전 확인을 돕는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E027",
+      "contest": "kinfa",
+      "title": "기관 처리 지연에 따른 증빙 재발급 축소",
+      "summary": "접수 뒤 기관 지연으로 만료된 서류의 재발급 부담을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E028",
+      "contest": "kinfa",
+      "title": "AI 상담 표현별 응답 격차 점검",
+      "summary": "실질 조건은 같고 표현만 다른 질문에 안내 품질 차이가 있는지 평가한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E029",
+      "contest": "kinfa",
+      "title": "신청 집중기간 접속 경쟁 완화",
+      "summary": "사전 수요접수와 분산배정 등으로 짧은 접속 경쟁의 편중을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-E030",
+      "contest": "kinfa",
+      "title": "공통 금융교육 중복 이수 인정",
+      "summary": "기관 간 공통 목표·평가·인정기간을 합의해 필요한 보충교육만 제공한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/kinfa/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "kinfa-V001",
+      "contest": "kinfa",
+      "title": "상담자료 오류 출처 추적 정정",
+      "problem": "잘못된 소득·채무 정보를 어느 기관에서 고쳐야 할지 모른다.",
+      "implementation_and_metrics": "출처·기준일·창구를 안내하고 확인중 항목을 확정정보와 구분한다. 정정기간·재발률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kinfa-V002",
+      "contest": "kinfa",
+      "title": "선택 동의 거절 후에도 끝내는 신청",
+      "problem": "선택 정보제공 거절 시 불이익을 받을까 오해한다.",
+      "implementation_and_metrics": "필수·선택과 목적을 설명하고 거절 상태에서 완료 가능한지 시험한다. 선택권 이해·중단률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kinfa-V003",
+      "contest": "kinfa",
+      "title": "동행인과 별도 개별상담 시간",
+      "problem": "가족·지인 앞에서 금전요구와 본인 의사를 말하기 어렵다.",
+      "implementation_and_metrics": "누구나 개별상담 시간을 요청하게 하고 필요 시 본인 의사로 전문기관을 연결한다. 선택권 인지도·만족도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kinfa-V004",
+      "contest": "kinfa",
+      "title": "방문예약 상담방식 전환",
+      "problem": "당일 근무·돌봄 변화로 예약을 취소하면 다시 기다린다.",
+      "implementation_and_metrics": "전화·비대면 전환을 지원하고 대면 확인업무만 후속 방문으로 분리한다. 완료율·재예약 대기일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kinfa-V005",
+      "contest": "kinfa",
+      "title": "연계기관 실제 상담 완료 확인",
+      "problem": "소개받은 기관에 접수되지 못한 채 멈출 수 있다.",
+      "implementation_and_metrics": "동의 후 접수·진행·실패를 확인하고 실패 사유별로 다시 돕는다. 연계 완료율·기관 간 이동.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "kinfa-V006",
+      "contest": "kinfa",
+      "title": "내 말로 다음 행동 확인",
+      "problem": "설명을 들어도 무엇을 언제 할지 이해하지 못할 수 있다.",
+      "implementation_and_metrics": "선택적으로 이용자 자신의 말로 다음 행동을 설명하게 하고 오해를 바로잡는다. 행동 완료율·재문의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kinfa-V007",
+      "contest": "kinfa",
+      "title": "대리 도움의 권한범위 표시",
+      "problem": "입력 도움과 본인 의사 확인의 경계가 모호하다.",
+      "implementation_and_metrics": "절차별 도움 가능 부분과 직접 확인할 부분을 구분하고 가능한 범위의 이력을 남긴다. 오처리·재확인.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kinfa-V008",
+      "contest": "kinfa",
+      "title": "상담센터 대기시간 현실적 안내",
+      "problem": "예약시각과 실제 시작 차이로 근무·돌봄 일정이 꼬인다.",
+      "implementation_and_metrics": "예상 대기범위와 지연 시 대기·시간변경 선택을 안내한다. 예측오차·대기 이탈.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kinfa-V009",
+      "contest": "kinfa",
+      "title": "AI 답변 오류 영향범위 추적",
+      "problem": "오류를 고쳐도 같은 안내를 받은 사람에게 정정이 안 갈 수 있다.",
+      "implementation_and_metrics": "근거·버전으로 관련 상담을 찾아 담당자가 영향과 정정 필요를 검토한다. 정정 소요일·재노출률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kinfa-V010",
+      "contest": "kinfa",
+      "title": "청년 금융교육 접근 가능한 교재",
+      "problem": "영상·PDF가 자막·화면낭독·키보드 이용자에게 장벽이 된다.",
+      "implementation_and_metrics": "당사자 점검으로 자막·대체텍스트·접근 가능한 문서를 제공한다. 과제 완료율·중도포기율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "kinfa-V011",
+      "contest": "kinfa",
+      "title": "원치 않는 정기결제 점검 교육",
+      "problem": "무료체험 후 결제·미사용 구독을 놓친다.",
+      "implementation_and_metrics": "이용자가 선택한 내역으로 이용 여부·결제일·해지 경로를 확인한다. 발견 건수·자발적 정리 완료율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kinfa-V012",
+      "contest": "kinfa",
+      "title": "청년 프리랜서 대금 청구 준비",
+      "problem": "청구자료·절차를 몰라 대금 요청이 늦어진다.",
+      "implementation_and_metrics": "업무합의·납품·청구 내역 교육과 분쟁 전문기관 연결을 제공한다. 준비시간·누락·상담 연결.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kinfa-V013",
+      "contest": "kinfa",
+      "title": "금융교육 광고·후원 관계 표시",
+      "problem": "교육사례와 홍보를 구분하기 어렵다.",
+      "implementation_and_metrics": "강사·협력기관 이해관계를 알리고 영업 유도를 점검한다. 구분 정확도·불만·적발.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kinfa-V014",
+      "contest": "kinfa",
+      "title": "저사양 휴대전화 신청화면",
+      "problem": "무거운 화면·파일로 데이터 제약 이용자가 포기한다.",
+      "implementation_and_metrics": "저용량 화면·단계별 업로드·오류복구와 다양한 기기 시험을 제공한다. 완료율·실패율·데이터량.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kinfa-V015",
+      "contest": "kinfa",
+      "title": "AI 반복설명 중 사람 연결",
+      "problem": "AI가 질문을 반복해 이용자가 포기한다.",
+      "implementation_and_metrics": "직접 연결요청과 동의한 대화·미해결 질문의 담당자 전달을 제공한다. 반복 횟수·이탈·재설명시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "kinfa-V016",
+      "contest": "kinfa",
+      "title": "처리 이견 독립 재검토 경로",
+      "problem": "같은 설명만 반복되면 안내 오류 의심을 해소하기 어렵다.",
+      "implementation_and_metrics": "권한 내 업무에서 다른 담당자가 쟁점·자료를 검토하고 근거를 회신한다. 정정률·기간·재접수.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kinfa-V017",
+      "contest": "kinfa",
+      "title": "단계별 필요한 정보만 요청",
+      "problem": "초기부터 많은 개인정보를 요구해 부담과 이탈이 생긴다.",
+      "implementation_and_metrics": "필수 항목·수집시점을 점검해 불필요 항목을 줄인다. 입력시간·중단·추가자료 요구.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kinfa-V018",
+      "contest": "kinfa",
+      "title": "청년지원 연령경계 후속서비스 연결",
+      "problem": "연령범위에서 벗어난 뒤 다른 지원경로를 모른다.",
+      "implementation_and_metrics": "실제 기준에 따라 종료 예정자에게 후속서비스를 안내한다. 공백기간·연결률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kinfa-V019",
+      "contest": "kinfa",
+      "title": "AI 첨부문서 속 지시문 대응 점검",
+      "problem": "문서 속 부적절한 지시·광고가 상담에 영향을 줄 가능성이 있다.",
+      "implementation_and_metrics": "가상 시험문서로 승인된 상담원칙이 바뀌지 않는지 평가한다. 지시 수용률·정상처리율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kinfa-V020",
+      "contest": "kinfa",
+      "title": "상담자료 보관·삭제 선택 안내",
+      "problem": "공용기기에 내려받은 자료가 남았는지 모른다.",
+      "implementation_and_metrics": "저장 위치·정리 방법을 안내하고 공용기기의 잔여파일을 점검한다. 잔여파일·정리 완료율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "kinfa-V021",
+      "contest": "kinfa",
+      "title": "내 계좌 간 이체 지출 중복 방지",
+      "problem": "자기 계좌 이체와 소비를 모두 지출로 입력할 수 있다.",
+      "implementation_and_metrics": "차이를 예시로 설명하고 중복 후보를 본인이 확인한다. 중복 입력률·진단 수정.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kinfa-V022",
+      "contest": "kinfa",
+      "title": "보유자산과 사용 가능한 돈 구분",
+      "problem": "즉시 쓰기 어려운 보증금 등을 생활비 여유로 오해한다.",
+      "implementation_and_metrics": "총액과 사용시점·인출조건을 구분하고 상담자가 확인한다. 이해도·오인 비율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kinfa-V023",
+      "contest": "kinfa",
+      "title": "공동생활 청년 생활비 분담 교육",
+      "problem": "공동비용 부담이 불명확해 룸메이트·형제자매 갈등이 생긴다.",
+      "implementation_and_metrics": "공동·개인비용과 정산주기를 합의하는 교육·기록을 제공한다. 미정산·시간·갈등.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kinfa-V024",
+      "contest": "kinfa",
+      "title": "AI 안내와 공식 처리결과 구분",
+      "problem": "가능성 안내를 실제 승인·심사결과로 오해한다.",
+      "implementation_and_metrics": "일반안내·담당자 확인·공식결과를 구분하고 이해시험을 한다. 승인 오인율·관련 문의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "kinfa-V025",
+      "contest": "kinfa",
+      "title": "재무진단 비교에 주거·부양 부담 반영",
+      "problem": "같은 소득이라도 생활부담이 달라 단순 저축률 비교가 부정확할 수 있다.",
+      "implementation_and_metrics": "선택한 생활조건을 설명하고 평균을 의무목표로 제시하지 않는다. 이해도·정정 해석·수용도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/kinfa/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "yongin-E001",
+      "contest": "yongin",
+      "title": "재활용품 수거 거절 사유 안내",
+      "summary": "거절 이유와 수정 방법·재수거 경로를 알려 반복 실패를 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E002",
+      "contest": "yongin",
+      "title": "학교 프로그램과 돌봄 사이 인계 공백 해소",
+      "summary": "종료·시작시간과 인계 책임을 조정해 아동의 대기 공백을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E003",
+      "contest": "yongin",
+      "title": "노후 소규모 공동주택 공동 유지관리",
+      "summary": "단지별로 어려운 점검·수리를 묶어 관리한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E004",
+      "contest": "yongin",
+      "title": "시장 하역 시간·공간 조정",
+      "summary": "납품 차량과 보행·영업 동선의 충돌을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E005",
+      "contest": "yongin",
+      "title": "농촌관광 우천 대체활동",
+      "summary": "비가 오는 날 이용 가능한 대체 프로그램과 안내를 준비한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E006",
+      "contest": "yongin",
+      "title": "무더위쉼터 실제 개방 확인",
+      "summary": "안내된 시간에 이용 가능한지 점검하고 운영 차이를 바로잡는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E007",
+      "contest": "yongin",
+      "title": "반려동물 동반 재난대피 계획",
+      "summary": "동물 동반 주민의 대피공간·이동·관리 역할을 준비한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E008",
+      "contest": "yongin",
+      "title": "경계구간 제설 담당 명확화",
+      "summary": "도로·구역 경계에서 제설이 빠지지 않도록 책임과 연락 경로를 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E009",
+      "contest": "yongin",
+      "title": "공공체육시설 첫 이용 안내",
+      "summary": "초보자가 준비물·이용방법을 알아 첫 방문을 완료하도록 돕는다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E010",
+      "contest": "yongin",
+      "title": "대형폐기물 실내 반출 지원",
+      "summary": "배출장소까지 옮기기 어려운 주민에게 적격 인력을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E011",
+      "contest": "yongin",
+      "title": "공공 전기차 충전기 고장 처리 추적",
+      "summary": "담당자와 조치 예정일을 명확히 해 고장 방치를 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E012",
+      "contest": "yongin",
+      "title": "도서관 조용한 공간과 대화 공간 구분",
+      "summary": "활동 목적에 맞게 구역을 구분해 소음 갈등을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E013",
+      "contest": "yongin",
+      "title": "감각 친화 문화행사 운영",
+      "summary": "빛·소리 등 자극을 조정한 회차와 사전 안내를 마련한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E014",
+      "contest": "yongin",
+      "title": "침수방지시설 임대인·세입자 협의",
+      "summary": "설치 동의와 관리 책임을 사전에 정리한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E015",
+      "contest": "yongin",
+      "title": "경력단절자의 유급 복귀 프로젝트",
+      "summary": "짧은 실제 업무를 유급으로 수행하며 재취업 역량을 보여주게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E016",
+      "contest": "yongin",
+      "title": "보행로 방치 이동장치 우선 수거",
+      "summary": "보행을 막는 위치와 영향을 기준으로 처리 순서를 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E017",
+      "contest": "yongin",
+      "title": "성별 다른 돌봄자와 이용 가능한 독립 화장실",
+      "summary": "돌봄 동반자의 이용 조건을 고려한 공간을 마련한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E018",
+      "contest": "yongin",
+      "title": "휠체어 승하차 주차 유예 검토",
+      "summary": "승하차에 필요한 시간을 반영할 수 있는 운영 방식을 검토한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E019",
+      "contest": "yongin",
+      "title": "하천 산책로 보행자·자전거 갈등 개선",
+      "summary": "통행 관찰과 의견을 바탕으로 동선·안내를 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E020",
+      "contest": "yongin",
+      "title": "승강기 교체 장기중단 생활지원",
+      "summary": "장기간 승강기를 못 쓰는 주민의 장보기·이동 등 필요한 지원을 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E021",
+      "contest": "yongin",
+      "title": "느린 보행자를 반영한 횡단시간 점검",
+      "summary": "실제 횡단시간과 차량 흐름을 조사해 관계기관이 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E022",
+      "contest": "yongin",
+      "title": "주거지로 새는 공공조명 개선",
+      "summary": "빛의 방향과 영향을 확인해 차광·각도·운영을 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E023",
+      "contest": "yongin",
+      "title": "도서관 찾지 못한 자료 수요 반영",
+      "summary": "미소장·미검색 수요를 구입·상호대차·대체자료 안내에 반영한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E024",
+      "contest": "yongin",
+      "title": "아동급식 실제 이용 가능 메뉴 안내",
+      "summary": "지원 범위 안에서 고를 수 있는 메뉴·가격·시간을 확인해 안내한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E025",
+      "contest": "yongin",
+      "title": "폐기 전 생활물품 수리 진단",
+      "summary": "진단과 견적을 제공해 소유자가 수리 여부를 결정하게 한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E026",
+      "contest": "yongin",
+      "title": "축제 청소인력의 시간대별 배치",
+      "summary": "구역·시간대 쓰레기 발생량에 따라 인력과 수거 동선을 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E027",
+      "contest": "yongin",
+      "title": "놀이터 연령 간 이용 충돌 개선",
+      "summary": "이용 관찰과 의견으로 놀이 동선·공간을 조정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E028",
+      "contest": "yongin",
+      "title": "공동주택 간접흡연 단계별 중재",
+      "summary": "발생 기록·설비 점검·공용공간 관리·전문중재를 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E029",
+      "contest": "yongin",
+      "title": "청소년 정책참여 시간·이동 장벽 완화",
+      "summary": "분산 회의·비대면 의견과 결과 회신으로 참여 편중을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-E030",
+      "contest": "yongin",
+      "title": "공동주택 배송사진 개인정보 노출 축소",
+      "summary": "촬영 범위와 보관·열람 기준을 협의해 불필요한 촬영을 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/yongin/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "yongin-V001",
+      "contest": "yongin",
+      "title": "버스 임시우회 현장·앱 동시 변경",
+      "problem": "현장과 모바일 안내가 다르면 오지 않는 버스를 기다린다.",
+      "implementation_and_metrics": "우회 시각·임시정류장을 하나의 변경기록으로 관리한다. 안내 불일치·잘못 기다린 신고.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "yongin-V002",
+      "contest": "yongin",
+      "title": "낙엽철 빗물받이 반복 막힘 우선관리",
+      "problem": "같은 배수구가 지형·나무 영향으로 다시 막힌다.",
+      "implementation_and_metrics": "청소·재발 기록으로 주기를 조정하고 필요 시 시설개선을 검토한다. 재막힘률·물고임 신고.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "yongin-V003",
+      "contest": "yongin",
+      "title": "공공수영장 속도 기준 자유수영 레인",
+      "problem": "속도 차이로 추월 충돌·갈등이 생긴다.",
+      "implementation_and_metrics": "혼잡도에 맞는 권장속도·규칙을 안내하고 직원이 조정한다. 충돌·갈등·만족도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "yongin-V004",
+      "contest": "yongin",
+      "title": "공공 공유주방 알레르기 교차접촉 인계",
+      "problem": "이전 사용재료·세척 상태를 몰라 위험 판단이 어렵다.",
+      "implementation_and_metrics": "재료기록·도구구분·세척 확인을 이용 간 인계한다. 누락률·관리기준 준수율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "yongin-V005",
+      "contest": "yongin",
+      "title": "가로수 낙과 시기별 관리",
+      "problem": "열매가 미끄러짐·악취·보도오염을 반복 유발한다.",
+      "implementation_and_metrics": "다발지점·시기에 맞춰 수거하고 신규 식재에 관리부담을 반영한다. 반복 민원·방치시간·청소량.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 1
+    },
+    {
+      "id": "yongin-V006",
+      "contest": "yongin",
+      "title": "공영주차장 출구 결제실패 개선",
+      "problem": "할인·번호인식·결제 오류를 출구에서 해결해 정체된다.",
+      "implementation_and_metrics": "오류 유형을 기록하고 사전확인·원격지원·안내를 개선한다. 출차시간·실패율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "yongin-V007",
+      "contest": "yongin",
+      "title": "공원 화장실 수리 중 대체안내",
+      "problem": "폐쇄 현장에서 다른 시설 위치·개방 여부를 다시 찾는다.",
+      "implementation_and_metrics": "실제 사용 가능한 대체시설·거리·시간을 입구·접근로에 표시한다. 탐색시간·안내 오류.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "yongin-V008",
+      "contest": "yongin",
+      "title": "공공강좌 첫 수업 전 준비물 대여",
+      "problem": "입문 장비를 샀다가 수업이 안 맞아 안 쓰게 된다.",
+      "implementation_and_metrics": "적합한 강좌 초반에 공용장비를 제공하고 이후 구매를 선택한다. 초기비용·지속률·장비 이용률.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "yongin-V009",
+      "contest": "yongin",
+      "title": "공동주택 이사·대형배송 승강기 조정",
+      "problem": "이사와 배송이 겹쳐 주민 이동·작업이 늦어진다.",
+      "implementation_and_metrics": "예정시간·일반이용 통로·지연 연락절차를 정한다. 충돌·대기·작업 지연.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "yongin-V010",
+      "contest": "yongin",
+      "title": "공공시설 분실물 공동검색",
+      "problem": "어디에 두었는지 몰라 여러 시설에 전화한다.",
+      "implementation_and_metrics": "습득일·품목·장소를 공통 검색하고 소유 확인정보는 반환 시 확인한다. 반환율·문의 수·보관기간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 2
+    },
+    {
+      "id": "yongin-V011",
+      "contest": "yongin",
+      "title": "반려견 산책로 배변봉투·수거함 위치",
+      "problem": "산책 수요와 시설 위치가 맞지 않아 불편이 집중된다.",
+      "implementation_and_metrics": "동선·방치신고·작업량으로 위치·수거주기를 조정한다. 방치·넘침시간·관리비.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "yongin-V012",
+      "contest": "yongin",
+      "title": "주민센터 상담 소리 노출 개선",
+      "problem": "민감한 상담이 대기석에 들려 설명을 주저한다.",
+      "implementation_and_metrics": "창구·대기선·흡음·별도공간 선택권을 개선한다. 대화 인지 정도·불편.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "yongin-V013",
+      "contest": "yongin",
+      "title": "도서관 연속권 함께 수령",
+      "problem": "권별 대출시점이 맞지 않아 반복 방문한다.",
+      "implementation_and_metrics": "묶음 수령을 선택하게 하되 보관기간·다른 대기자 영향을 관리한다. 방문 횟수·미수령·대기일.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "yongin-V014",
+      "contest": "yongin",
+      "title": "주택가 일방통행 오진입 개선",
+      "problem": "표지 위치·방향이 시야와 안 맞아 오진입이 반복된다.",
+      "implementation_and_metrics": "관계기관이 가시성·노면안내·진입부를 조사한다. 오진입·급후진·신고.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "yongin-V015",
+      "contest": "yongin",
+      "title": "야외 체육시설 강우 후 개방 판단",
+      "problem": "비가 그쳐도 상태를 몰라 헛걸음·갈등이 생긴다.",
+      "implementation_and_metrics": "점검항목·판단 책임자·다음 확인시각을 안내한다. 헛걸음·갈등·불필요 폐쇄.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 3
+    },
+    {
+      "id": "yongin-V016",
+      "contest": "yongin",
+      "title": "학교·학원 차량 승하차 조정",
+      "problem": "차량 집중으로 보행과 통행이 막힌다.",
+      "implementation_and_metrics": "학교·학원·기관이 관찰자료로 위치·도착시간을 조정한다. 이중정차·보행 침범·대기.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "yongin-V017",
+      "contest": "yongin",
+      "title": "공공 체육수업 보호자 대기공간",
+      "problem": "보호자가 통로·출입구에 머물러 혼잡하다.",
+      "implementation_and_metrics": "인원·시간 조사로 좌석·안내·종료 후 만남 장소를 정한다. 혼잡·불편·인계시간.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "yongin-V018",
+      "contest": "yongin",
+      "title": "대여 유아용품 상태·부속품 확인",
+      "problem": "집에 간 뒤 상태문제·누락을 발견한다.",
+      "implementation_and_metrics": "대여 전 공동확인과 반납 시 같은 항목 점검을 운영한다. 재방문·분실·분쟁.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "yongin-V019",
+      "contest": "yongin",
+      "title": "자전거 보관대 장기방치 관리",
+      "problem": "장기 미사용 자전거가 공간을 차지한다.",
+      "implementation_and_metrics": "현황 조사와 소유자 확인·이동절차로 공간을 확보한다. 이용 가능면·주변 무질서 주차·민원.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "yongin-V020",
+      "contest": "yongin",
+      "title": "공공시설 대관 준비·철수시간 반영",
+      "problem": "행사시간만 예약해 앞뒤 이용자가 충돌한다.",
+      "implementation_and_metrics": "유형별 준비·철수시간과 비용을 신청 때 확인한다. 예약 충돌·행사 지연·요금 이의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 4
+    },
+    {
+      "id": "yongin-V021",
+      "contest": "yongin",
+      "title": "축제 아동·보호자 재회 절차 통일",
+      "problem": "부스별 대응 차이로 확인·인계가 늦어진다.",
+      "implementation_and_metrics": "접수·보호공간·보호자 확인·인계기록을 통일하고 공개정보를 제한한다. 모의 재회시간·오인계 차단·숙지율.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "yongin-V022",
+      "contest": "yongin",
+      "title": "공공건물 촉각안내 동선 연결",
+      "problem": "개별 안내판 사이 연결이 끊겨 혼자 이동하기 어렵다.",
+      "implementation_and_metrics": "시각장애인과 실제 동선을 점검해 촉각·음성안내를 연결한다. 독립 이동률·도움 요청·오진입.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "yongin-V023",
+      "contest": "yongin",
+      "title": "음식물쓰레기 계량기 고장 대체배출",
+      "problem": "고장으로 배출하지 못하고 되가져간다.",
+      "implementation_and_metrics": "임시배출·위생·비용·복구 절차를 정한다. 배출 불가시간·방치·비용 이의.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "yongin-V024",
+      "contest": "yongin",
+      "title": "시 발주 창작물 사용범위 사전합의",
+      "problem": "수정·재사용 조건을 늦게 협의해 갈등이 생긴다.",
+      "implementation_and_metrics": "매체·기간·수정·원본 제공·추가사용 조건을 전문검토한다. 협의시간·분쟁·창작자 만족도.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "yongin-V025",
+      "contest": "yongin",
+      "title": "공공시설 QR 위변조 점검",
+      "problem": "덧붙인 QR로 다른 사이트에 연결될 수 있다.",
+      "implementation_and_metrics": "공식 주소를 병기하고 훼손·연결목적지를 정기 점검한다. 발견시간·오연결·점검 누락.",
+      "source_status": "visible_conversation_condensed",
+      "path": "contests/yongin/ideas/backfill-2026-10-07-01-to-09.md",
+      "batch": 5
+    },
+    {
+      "id": "khnp-E001",
+      "contest": "khnp",
+      "title": "협력업체 대금 지급 진행상황 안내",
+      "summary": "청구부터 지급까지 단계와 지연 사유를 확인해 반복 문의를 줄인다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/khnp/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "khnp-E002",
+      "contest": "khnp",
+      "title": "접근 가능한 시설 견학",
+      "summary": "방문자의 이동·의사소통 조건을 확인하고 적합한 견학 동선을 준비한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/khnp/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "khnp-E003",
+      "contest": "khnp",
+      "title": "주민 의견수렴 참여시간·비용 장벽 완화",
+      "summary": "참여 가능한 시간과 이동 부담을 고려해 의견수렴을 운영한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/khnp/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "khnp-E004",
+      "contest": "khnp",
+      "title": "비안전분야 잉여 사무물품 재사용",
+      "summary": "사용 가능한 사무물품을 다른 수요처와 연결한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/khnp/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "khnp-E005",
+      "contest": "khnp",
+      "title": "복합 민원 공동 접수·관할 조정",
+      "summary": "여러 기관에 걸친 불편을 공동 접수하고 담당 역할을 정한다.",
+      "source_status": "early_summary_reconstruction",
+      "path": "contests/khnp/ideas/backfill-early-summary.md"
+    },
+    {
+      "id": "anseong-I1",
+      "contest": "anseong",
+      "title": "A1. 소상공인 ‘한 시간 가게 비움’ 공동 대체인력",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/README.md",
+      "details": [
+        "혼자 가게를 운영하면 병원 방문이나 자녀 상담 때문에 몇 시간만 자리를 비우기도 어렵다.",
+        "상인회 단위로 교육받은 대체인력을 확보하고 1~3시간씩 예약한다. 업무는 계산·포장 등 사전에 합의한 범위로 제한하고 점포별 인수인계표를 사용한다.",
+        "짧은 시간의 영업 공백 해결. 임시휴업 감소 시간, 재이용률 측정."
+      ]
+    },
+    {
+      "id": "anseong-I2",
+      "contest": "anseong",
+      "title": "A2. 전통시장 ‘여러 가게 한 번에 찾기’ 공동 수령대",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/README.md",
+      "details": [
+        "여러 점포를 이용하면 상품을 들고 이동하거나 점포마다 다시 방문해야 한다.",
+        "전화·메신저 주문 상품을 공동 수령대에 모아 한 번에 찾게 한다. 상온 상품부터 시작해 보관 관리가 가능한 품목으로 확대한다.",
+        "시장 내부 구매 동선 개선. 복수 점포 구매율, 수령 대기시간 측정."
+      ]
+    },
+    {
+      "id": "anseong-I3",
+      "contest": "anseong",
+      "title": "A3. 축제 방문객의 ‘다음 달 재방문’ 상권 연결권",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/README.md",
+      "details": [
+        "행사장 방문객이 주변 상권의 지속적인 매출로 이어지는지 불분명하다.",
+        "행사 종료 후 일정 기간에만 쓸 수 있는 인근 점포 체험권을 제공한다. 혜택은 참여 점포에 고르게 배분하고 재방문 결제를 확인한다.",
+        "행사 이후 재방문에 집중. 재방문율, 점포별 추가 매출 측정."
+      ]
+    },
+    {
+      "id": "anseong-I4",
+      "contest": "anseong",
+      "title": "A4. 폐업·실직 상담에 연결하는 ‘생활회복 동행’",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/README.md",
+      "details": [
+        "경제적 어려움으로 행정기관을 찾아도 마음건강 지원까지 직접 찾아가기 어렵다.",
+        "상담 과정에서 누구에게나 생활·마음건강 지원을 선택적으로 안내하고 희망자의 동의를 받아 전문기관 예약과 첫 상담 연결을 돕는다.",
+        "위험 여부를 임의 판정하지 않고 기존 접점에서 상담 연결 중단을 줄인다. 첫 상담 완료율 측정."
+      ]
+    },
+    {
+      "id": "anseong-I5",
+      "contest": "anseong",
+      "title": "A5. 상실 경험 주민을 위한 ‘일상 복귀 소모임’",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/README.md",
+      "details": [
+        "사별·은퇴 등 큰 변화를 겪은 사람이 일상적으로 사람을 만날 기회가 부족할 수 있다.",
+        "도서관·복지관에서 식사·산책·생활정리 등 정기 활동을 운영한다. 훈련받은 진행자가 필요 시 전문상담을 안내한다.",
+        "반복적 관계 회복. 지속 참여율, 참여자의 고립감 변화 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-I1",
+      "contest": "gyeongbuk",
+      "title": "G1. 행정경계를 넘는 ‘가까운 농기계 공동예약’",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/README.md",
+      "details": [
+        "가까운 임대사업소가 다른 시·군에 있거나 필요한 장비가 없어 멀리 이동할 수 있다.",
+        "기종별 재고·예약 정보를 공유하고 이용 자격·요금·보험·운송 기준을 협약으로 조정한다. 인접 2~3개 시·군부터 시작한다.",
+        "기존 장비 공동 이용. 이동거리, 예약 실패율, 가동률 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-I2",
+      "contest": "gyeongbuk",
+      "title": "G2. 농촌 진료예약과 귀가편을 함께 잡는 이동 지원",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/README.md",
+      "details": [
+        "병원행 차편이 있어도 진료 종료시간과 귀가 교통이 맞지 않을 수 있다.",
+        "의료기관과 예약시간을 묶고 기존 교통·이동지원 수단에 연계한다. 진료 지연 시 담당자가 귀가편 변경을 조정한다.",
+        "진료 후 귀가까지 연결. 진료 취소율, 귀가 대기시간 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-I3",
+      "contest": "gyeongbuk",
+      "title": "G3. 빈집 ‘입주 준비도 확인서’",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/README.md",
+      "details": [
+        "빈집 목록만으로 수리비, 임대 의사, 입주 가능 시점을 알기 어렵다.",
+        "소유자 동의하에 누수·설비·안전·통신 상태와 예상 수리 항목, 임대 조건·입주 가능일을 표준 양식으로 공개한다. 전문 확인 필요 사항은 별도 표시한다.",
+        "입주 가능성의 불확실성 해소. 계약 전환율, 입주 소요기간 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-I4",
+      "contest": "gyeongbuk",
+      "title": "G4. 소량 농산물 ‘공동 출하 최소물량 달성제’",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/README.md",
+      "details": [
+        "소규모 농가는 운송비 부담이 크고 구매처 최소 발주량을 맞추기 어렵다.",
+        "인접 농가의 같은 품목을 출하일별로 모아 최소물량 달성 시 공동 수거한다. 등급·포장·정산 기준을 사전 합의한다.",
+        "출하 단위와 물류 운영 개선. 농가당 운송비, 출하 포기 물량 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-I5",
+      "contest": "gyeongbuk",
+      "title": "G5. 산불 대피 ‘차량 없는 주민 이동계획’",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/README.md",
+      "details": [
+        "대피 안내를 받아도 차가 없거나 이동지원이 필요한 주민은 출발이 어려울 수 있다.",
+        "희망 가구를 등록하고 탑승 장소·운전자·예비차량을 정한다. 재난 담당기관과 훈련하고 연락처·지원 필요 정보를 갱신한다.",
+        "대피 실행 준비. 훈련 시 탑승 완료시간, 미연락 가구 비율 측정."
+      ]
+    },
+    {
+      "id": "khnp-I1",
+      "contest": "khnp",
+      "title": "H1. 발전소 정비·공사 ‘생활영향 사전안내’",
+      "source_status": "existing_repository_document",
+      "path": "contests/khnp/README.md",
+      "details": [
+        "주민은 기술적 설명보다 소음 발생시간과 혼잡 도로를 알고 싶다.",
+        "공개 가능한 공사 일정·운송 계획으로 마을별 예상 영향·시간대·문의처를 알리고 변경 일정도 안내한다.",
+        "주민 생활 영향 중심. 사전안내율, 반복 문의, 변경 통지시간 측정."
+      ]
+    },
+    {
+      "id": "khnp-I2",
+      "contest": "khnp",
+      "title": "H2. 발전소 주변 지원사업 ‘유지관리 책임 확인제’",
+      "source_status": "existing_repository_document",
+      "path": "contests/khnp/README.md",
+      "details": [
+        "시설 조성 시 운영비·수리 책임을 정하지 않으면 활용이 어려워질 수 있다.",
+        "선정 단계에서 운영주체·연간 유지비·고장 접수처·관리기간을 정하고 준공 후 이용 실적과 관리 상태를 확인한다.",
+        "설치 후 실제 이용 관리. 휴관·고장 방치일, 이용률 측정."
+      ]
+    },
+    {
+      "id": "khnp-I3",
+      "contest": "khnp",
+      "title": "H3. 신규 협력업체 ‘입찰 전 서류 예행점검’",
+      "source_status": "existing_repository_document",
+      "path": "contests/khnp/README.md",
+      "details": [
+        "작은 기업은 필요한 증빙을 몰라 참여를 포기할 수 있다.",
+        "공개 공고 기준으로 누락·유효기간·항목 불일치를 점검한다. AI 사용 시 근거 조항을 표시하고 최종 판단은 담당자가 한다.",
+        "행정 실수 예방. 서류 보완 건수, 신규 업체 참여율 측정."
+      ]
+    },
+    {
+      "id": "khnp-I4",
+      "contest": "khnp",
+      "title": "H4. 환경측정 공개자료 ‘수치 설명 카드’",
+      "source_status": "existing_repository_document",
+      "path": "contests/khnp/README.md",
+      "details": [
+        "측정값의 단위·비교 기준·결측 이유를 이해하기 어려울 수 있다.",
+        "측정 위치·시각·단위·비교 기준·평소 범위·자료 누락 여부를 붙인다. 해석 문구는 전문가가 검토한다.",
+        "시민 해석 가능성 개선. 이해도 조사, 반복 문의 측정."
+      ]
+    },
+    {
+      "id": "khnp-I5",
+      "contest": "khnp",
+      "title": "H5. 한수원 관리 댐·수력시설 하류 ‘현장 경보 도달 점검’",
+      "source_status": "existing_repository_document",
+      "path": "contests/khnp/README.md",
+      "details": [
+        "온라인 방류 공지를 현장 방문객이나 통신 취약구간 이용자가 놓칠 수 있다.",
+        "기존 경보체계를 조사해 안내판·방송 사각지대와 비상전원을 점검하고 지자체와 실제 경보 도달 훈련을 실시한다.",
+        "전달 사각지대 확인. 현장 도달률, 고장 복구시간 측정."
+      ]
+    },
+    {
+      "id": "kinfa-I1",
+      "contest": "kinfa",
+      "title": "F1. 지원 부결 뒤 ‘다음 행동 안내서’",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/README.md",
+      "details": [
+        "부결 후 보완할 수 있는지, 다른 지원을 찾아야 하는지 알기 어렵다.",
+        "안내 가능한 사유를 쉬운 말로 설명하고 보완서류·재확인 조건·다른 상담 경로를 제공한다. 타 기관 연결은 동의 후 진행한다.",
+        "부결 이후 공백 해소. 안내 이해도, 후속 상담 연결률 측정."
+      ]
+    },
+    {
+      "id": "kinfa-I2",
+      "contest": "kinfa",
+      "title": "F2. 불규칙 소득 청년의 ‘생활비 공백 달력’",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/README.md",
+      "details": [
+        "수입일과 월세·공과금 납부일이 어긋나 일시적인 자금 부족이 생길 수 있다.",
+        "자발적 입력 또는 동의한 자료로 현금흐름을 시각화한다. 공백 예상 시 납부일 조정 가능 여부와 복지·상담 경로를 안내한다.",
+        "돈이 부족해지는 시점에 집중. 예측오차, 사전 상담 이용률 측정."
+      ]
+    },
+    {
+      "id": "kinfa-I3",
+      "contest": "kinfa",
+      "title": "F3. 설명을 반복하지 않는 상담요약서",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/README.md",
+      "details": [
+        "기관을 옮길 때마다 소득·채무·취업 상황을 반복 설명해야 한다.",
+        "이용자가 확인·수정한 요약서를 원하는 기관에 필요한 항목만 제공한다. 제공 범위·유효기간·철회 방법을 명확히 한다.",
+        "상담 연속성 확보. 반복 설명시간, 추가 서류 요구 건수 측정."
+      ]
+    },
+    {
+      "id": "kinfa-I4",
+      "contest": "kinfa",
+      "title": "F4. 금융 신청서 ‘어려운 표현 발견 AI’",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/README.md",
+      "details": [
+        "어려운 문구가 입력 오류·신청 포기로 이어질 수 있다.",
+        "AI가 신청서·오류 문구의 어려운 표현과 대안을 제시하고 이용자가 이해도 실험에 참여한다. 담당자 검토 후 반영한다.",
+        "신청 화면 자체 개선. 항목별 오류율, 신청 중단율 측정."
+      ]
+    },
+    {
+      "id": "kinfa-I5",
+      "contest": "kinfa",
+      "title": "F5. 민원 답변 이후 ‘개선 결과 공개장부’",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/README.md",
+      "details": [
+        "의견 제출 뒤 제도가 바뀌었는지 알기 어렵다.",
+        "반복 불편을 익명화해 공개하고 이용자 패널이 우선순위에 참여한다. 채택·보류 사유, 담당부서, 개선 결과를 기록한다.",
+        "실제 변화 과정 공개. 처리기간, 동일 민원 재발률 측정."
+      ]
+    },
+    {
+      "id": "yongin-I1",
+      "contest": "yongin",
+      "title": "Y1. 반도체 관련 교대근무자의 ‘출퇴근 공백 연결’",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/README.md",
+      "details": [
+        "교대시간과 첫차·막차가 맞지 않으면 자가용 의존이 커질 수 있다.",
+        "익명화된 근무시간·이동 수요로 통근버스와 대중교통의 빈 시간대를 찾고 기업·운수사와 비용 분담형 연결편을 시범 운영한다.",
+        "특정 시간대 공백 해결. 이용률, 1인당 운영비, 자가용 전환율 측정."
+      ]
+    },
+    {
+      "id": "yongin-I2",
+      "contest": "yongin",
+      "title": "Y2. 공공시설 ‘빈자리 재배정’",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/README.md",
+      "details": [
+        "예약은 차 있어도 현장에 미사용 공간이 생길 수 있다.",
+        "취소 자리를 대기자에게 순차 안내한다. 응답시간·무단 불참 기준과 디지털 취약층 신청 경로를 마련한다.",
+        "기존 시설 실제 이용률 개선. 재배정률, 무단 불참률 측정."
+      ]
+    },
+    {
+      "id": "yongin-I3",
+      "contest": "yongin",
+      "title": "Y3. 통학로 ‘보도 끊김 먼저 고치기’",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/README.md",
+      "details": [
+        "짧은 단절 구간 때문에 학생이 차도로 내려갈 수 있다.",
+        "학교·학부모·현장조사로 단절 구간을 찾아 보행량·우회거리·차량 속도·공사비로 우선순위를 정한다. 교육청·도로관리기관과 역할을 나눈다.",
+        "전체 동선을 끊는 구간 우선 개선. 차도 보행 구간, 우회거리 감소 측정."
+      ]
+    },
+    {
+      "id": "yongin-I4",
+      "contest": "yongin",
+      "title": "Y4. 신도시 입주 전 ‘생활서비스 개시 일정표’",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/README.md",
+      "details": [
+        "주택 입주와 버스·돌봄·보행시설 운영 시점이 어긋날 수 있다.",
+        "지역별 담당기관·개시 예정일·지연 여부·임시 대책을 공개하고 입주 전 점검회의에서 미해결 항목을 관리한다.",
+        "입주 시점 생활 공백 관리. 서비스별 공백일수, 대체수단 마련율 측정."
+      ]
+    },
+    {
+      "id": "yongin-I5",
+      "contest": "yongin",
+      "title": "Y5. 대형 공사 주변 ‘생활불편 누적시간 관리’",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/README.md",
+      "details": [
+        "여러 현장의 소음·분진·차량 통행이 같은 시간에 겹칠 수 있다.",
+        "공개 가능한 작업·운송 일정을 모아 중복 시간대를 확인하고 시행사와 가능한 작업을 분산한다. 주민에게 변경 일정을 안내한다.",
+        "주민 관점의 중첩 영향 관리. 중복 작업시간, 반복 민원, 안내 이행률 측정."
+      ]
+    },
+    {
+      "id": "anseong-L1",
+      "contest": "anseong",
+      "title": "지원사업 선정 포기분의 신속 재배정",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/ideas/2026-10-07-1059.md",
+      "details": [
+        "선정자가 사업을 포기해도 다른 점포에 기회가 넘어가지 않으면 예산과 준비 시간이 낭비될 수 있다.",
+        "적용 가능한 사업에 예비순위·포기 확인일·재배정 가능기한을 미리 정한다. 미집행 예산·재배정 소요일·추가 수혜 점포 수 측정."
+      ]
+    },
+    {
+      "id": "anseong-L2",
+      "contest": "anseong",
+      "title": "소상공인 온라인 리뷰 분쟁 대응창구",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/ideas/2026-10-07-1059.md",
+      "details": [
+        "허위 사실이라고 판단되는 리뷰를 받아도 점주는 어떤 자료를 준비하고 어디에 이의를 제기해야 할지 모를 수 있다.",
+        "정당한 소비자 평가와 분쟁 사안을 구분할 수 있도록 플랫폼 이의절차·전문상담을 연결한다. 대응 준비시간·처리 완료율·반복 분쟁 측정."
+      ]
+    },
+    {
+      "id": "anseong-L3",
+      "contest": "anseong",
+      "title": "폐업 경력을 취업 역량으로 바꾸는 상담",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/ideas/2026-10-07-1059.md",
+      "details": [
+        "자영업 경험을 가진 구직자가 재고관리·고객응대·매출관리 경험을 채용 언어로 설명하기 어려울 수 있다.",
+        "고용기관과 실제 수행 업무를 분석해 직무별 이력서와 면접 사례로 정리한다. 면접 연결률·취업 유지율·경력 설명 자신감 측정."
+      ]
+    },
+    {
+      "id": "anseong-L4",
+      "contest": "anseong",
+      "title": "전통시장 청소·물류 작업시간 분리",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/ideas/2026-10-07-1059.md",
+      "details": [
+        "물청소와 상품 운반이 겹치면 바닥이 젖은 상태에서 통행과 작업이 집중될 수 있다.",
+        "상인회가 구역별 청소·납품 시간을 조정하고 통행 재개 전 상태를 확인한다. 작업 충돌·젖은 바닥 노출시간·이용자 불편 측정."
+      ]
+    },
+    {
+      "id": "anseong-L5",
+      "contest": "anseong",
+      "title": "보조사업 지출 전 정산 예시 확인",
+      "source_status": "existing_repository_document",
+      "path": "contests/anseong/ideas/2026-10-07-1059.md",
+      "details": [
+        "사업을 끝낸 뒤에야 증빙이 부족하다는 사실을 알면 점주가 자료를 다시 준비해야 한다.",
+        "선정 직후 가상의 지출 사례로 인정 항목·필요 증빙을 확인하고 첫 지출 전에 질문할 창구를 제공한다. 증빙 보완 횟수·정산 소요일·인정 불가 지출 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-L1",
+      "contest": "gyeongbuk",
+      "title": "농번기 작업구역에 맞춘 화장실 접근 지원",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-1059.md",
+      "details": [
+        "작업 장소가 주거지에서 멀면 화장실을 이용하기 위해 장시간 이동해야 할 수 있다.",
+        "실제 작업 인원·기간을 조사해 이용 가능한 시설을 연결하거나 적합한 임시시설을 운영한다. 이동시간·이용 가능시간·관리 상태 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-L2",
+      "contest": "gyeongbuk",
+      "title": "농산물 출하차량의 하역시간 예약",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-1059.md",
+      "details": [
+        "출하차량이 특정 시간에 몰리면 농가와 운송기사가 현장에서 오래 기다릴 수 있다.",
+        "참여 집하장에 도착 예정시간·처리능력 기반 예약을 도입하고 지연 차량의 재배정 원칙을 정한다. 하역 대기시간·차량 체류시간·예약 준수율 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-L3",
+      "contest": "gyeongbuk",
+      "title": "농작물 방제 일정과 인근 양봉장 연락 연결",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-1059.md",
+      "details": [
+        "인접 농가와 양봉장이 작업 일정을 모르고 있으면 필요한 사전 협의를 놓칠 수 있다.",
+        "농업기술기관이 참여자의 동의를 받아 일정 변경과 연락을 중계하고 대응은 전문가 지침에 따라 협의한다. 사전 통보율·연락 누락·당사자 간 분쟁 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-L4",
+      "contest": "gyeongbuk",
+      "title": "지역 정착 부부의 동반 취업 지원",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-1059.md",
+      "details": [
+        "한 사람은 일자리를 구했지만 배우자의 구직이 해결되지 않아 정착을 포기할 수 있다.",
+        "두 사람의 희망 직무·통근 범위를 각각 확인하고 기업·고용기관이 별도의 채용 경로를 연결한다. 가구 단위 정착 유지율·배우자 취업 소요일 측정."
+      ]
+    },
+    {
+      "id": "gyeongbuk-L5",
+      "contest": "gyeongbuk",
+      "title": "마을회관 이용 신청과 열쇠 관리 공개",
+      "source_status": "existing_repository_document",
+      "path": "contests/gyeongbuk/ideas/2026-10-07-1059.md",
+      "details": [
+        "시설 이용이 특정 관리자의 부재나 비공식 관행에 좌우되면 주민이 이용을 포기할 수 있다.",
+        "주민 합의로 이용 조건·신청 방법·열쇠 인계·마감 점검 책임을 명확히 한다. 이용 거절 사유·관리자 부재로 인한 취소·신규 이용자 수 측정."
+      ]
+    },
+    {
+      "id": "kwater-L1",
+      "contest": "kwater",
+      "title": "방문 수도업무 담당자의 신원 직접 확인",
+      "source_status": "existing_repository_document",
+      "path": "contests/kwater/ideas/2026-10-07-1059.md",
+      "details": [
+        "검침·점검 방문자가 실제 담당자인지 주민이 확인하기 어려울 수 있다.",
+        "주민이 공식 고객센터나 공식 화면에서 방문 업무·소속·유효시간을 확인하도록 한다. 확인 소요시간·확인 실패·방문 거부 후 재방문 측정."
+      ]
+    },
+    {
+      "id": "kwater-L2",
+      "contest": "kwater",
+      "title": "급수 복구 예상시간의 변경 이력 안내",
+      "source_status": "existing_repository_document",
+      "path": "contests/kwater/ideas/2026-10-07-1059.md",
+      "details": [
+        "처음 안내한 시각이 지나도 설명이 없으면 주민이 물 사용 계획을 세우기 어렵다.",
+        "예상시간·변경 이유·다음 안내 예정시각을 구분해 갱신하고 확정되지 않은 시각은 명확히 표시한다. 안내 갱신 지연·예측 오차·반복 문의 측정."
+      ]
+    },
+    {
+      "id": "kwater-L3",
+      "contest": "kwater",
+      "title": "장시간 긴급복구의 인력 교대계획",
+      "source_status": "existing_repository_document",
+      "path": "contests/kwater/ideas/2026-10-07-1059.md",
+      "details": [
+        "복구가 길어질 때 교대 인력과 인수인계가 준비되지 않으면 작업 부담이 특정 인원에게 집중될 수 있다.",
+        "협력업체와 예비 인력·교대 기준·인수인계 항목을 사전 협의하고 훈련으로 점검한다. 장시간 연속작업·인계 누락·교대 확보시간 측정."
+      ]
+    },
+    {
+      "id": "kwater-L4",
+      "contest": "kwater",
+      "title": "물기업 해외 입찰의 참여요건 사전 확인",
+      "source_status": "existing_repository_document",
+      "path": "contests/kwater/ideas/2026-10-07-1059.md",
+      "details": [
+        "작은 기업은 해외 공고의 실적·인증·현지 파트너 조건을 늦게 파악해 제안서 준비비를 낭비할 수 있다.",
+        "해외사업 지원기관과 공고별 필수조건·확인 필요사항을 정리하고 기업이 참여 여부를 판단하도록 돕는다. 준비 후 자격 미충족 발견·검토시간·실제 참여율 측정."
+      ]
+    },
+    {
+      "id": "kwater-L5",
+      "contest": "kwater",
+      "title": "비상연락망의 실제 연결 여부 점검",
+      "source_status": "existing_repository_document",
+      "path": "contests/kwater/ideas/2026-10-07-1059.md",
+      "details": [
+        "조직·담당자가 바뀌었는데 연락망이 그대로라면 긴급 상황에서 연락이 지연될 수 있다.",
+        "관련 기관·협력업체가 정기적으로 연락 경로를 시험하고 미연결 시 대체 경로를 확인한다. 연결 성공률·담당자 도달시간·오래된 연락처 비율 측정."
+      ]
+    },
+    {
+      "id": "kinfa-L1",
+      "contest": "kinfa",
+      "title": "AI 상담의 금액 계산 별도 검증",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/ideas/2026-10-07-1059.md",
+      "details": [
+        "문장 설명이 자연스러워도 합계·기간 환산·단위 계산이 잘못되면 이용자가 오해할 수 있다.",
+        "숫자가 포함된 답변은 검증된 계산 절차와 대조하고 입력값·계산 기준을 함께 보여준다. 계산 오류율·단위 오류·수정 답변 건수 측정."
+      ]
+    },
+    {
+      "id": "kinfa-L2",
+      "contest": "kinfa",
+      "title": "전화상담 중 끊김에 대한 재연결 절차",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/ideas/2026-10-07-1059.md",
+      "details": [
+        "상담 중 통신이 끊기면 이용자가 처음부터 다시 대기하고 설명해야 할 수 있다.",
+        "통화 시작 시 재연락 동의를 확인하고 끊김 발생 시 본인확인 후 이어서 상담할 수 있도록 운영한다. 재연결 시간·재설명 시간·상담 완료율 측정."
+      ]
+    },
+    {
+      "id": "kinfa-L3",
+      "contest": "kinfa",
+      "title": "신청서류 발급비 부담 점검",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/ideas/2026-10-07-1059.md",
+      "details": [
+        "소액의 발급·출력 비용도 여러 서류와 반복 제출이 겹치면 부담이 될 수 있다.",
+        "서류별 비용을 조사해 무료 발급 경로·전자 제출·기관 확인 가능 범위를 안내하고 비용을 줄일 대안을 검토한다. 신청자 부담액·유료 발급 횟수·서류 준비 포기 측정."
+      ]
+    },
+    {
+      "id": "kinfa-L4",
+      "contest": "kinfa",
+      "title": "서비스 평가와 지원심사의 분리 안내",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/ideas/2026-10-07-1059.md",
+      "details": [
+        "이용자가 불만을 말하면 향후 지원에 영향을 줄까 걱정해 의견을 숨길 수 있다.",
+        "평가자료의 접근 권한과 사용 목적을 정하고, 심사에 불필요한 개인별 평가정보가 전달되지 않도록 운영한다. 의견 제출률·불이익 우려·개선 가능한 불편 발견 측정."
+      ]
+    },
+    {
+      "id": "kinfa-L5",
+      "contest": "kinfa",
+      "title": "상담 목표를 이용자가 먼저 선택",
+      "source_status": "existing_repository_document",
+      "path": "contests/kinfa/ideas/2026-10-07-1059.md",
+      "details": [
+        "상담자가 생각하는 목표와 이용자가 당장 해결하고 싶은 문제가 다르면 실행 의지가 낮아질 수 있다.",
+        "상담 시작 때 이용자가 우선 목표를 선택하고, 종료 시 합의한 행동이 그 목표에 맞는지 확인한다. 목표 일치도·합의 행동 실행률·상담 만족도 측정."
+      ]
+    },
+    {
+      "id": "yongin-L1",
+      "contest": "yongin",
+      "title": "기업의 대학·연구기관 장비 이용조건 비교",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/ideas/2026-10-07-1059.md",
+      "details": [
+        "지역 중소기업이 필요한 시험·측정 장비를 찾아도 사용 자격·담당자·비용을 기관마다 따로 확인해야 할 수 있다.",
+        "참여기관이 공개 가능한 장비의 이용조건과 상담 창구를 공통 양식으로 제공한다. 장비 탐색시간·상담 연결률·외부 이용 실적 측정."
+      ]
+    },
+    {
+      "id": "yongin-L2",
+      "contest": "yongin",
+      "title": "시 지원 직업훈련의 취업성과 표시 통일",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/ideas/2026-10-07-1059.md",
+      "details": [
+        "훈련과 관련 없는 취업까지 포함한 수치와 관련 직무 취업률이 섞이면 교육과정을 비교하기 어렵다.",
+        "전체 수료자·취업 확인자·관련 직무 취업자·확인 시점을 구분해 공개한다. 성과정보 이해도·자료 누락·수강 후 기대 차이 측정."
+      ]
+    },
+    {
+      "id": "yongin-L3",
+      "contest": "yongin",
+      "title": "공공강좌 강사 결원 시 대체수업 기준",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/ideas/2026-10-07-1059.md",
+      "details": [
+        "강사 사정으로 수업이 빠졌을 때 대체강사·보강·환불 여부가 늦게 정해지면 이용자 일정이 흔들릴 수 있다.",
+        "강좌 개설 때 대체 운영 기준을 안내하고 분야별 대체강사 인력을 확보한다. 수업 공백·결정 통보시간·보강 참여율 측정."
+      ]
+    },
+    {
+      "id": "yongin-L4",
+      "contest": "yongin",
+      "title": "공동주택 택배기사의 건물 내부 길찾기 개선",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/ideas/2026-10-07-1059.md",
+      "details": [
+        "동·출입구·승강기 표기가 혼동되면 배송 지연과 오배송이 반복될 수 있다.",
+        "참여 단지가 현장 동선을 조사해 표기를 통일하고 공개 가능한 배송 동선만 안내한다. 건물 탐색시간·오배송·관리실 문의 측정."
+      ]
+    },
+    {
+      "id": "yongin-L5",
+      "contest": "yongin",
+      "title": "공공시설 실내온도 민원의 구역별 조정",
+      "source_status": "existing_repository_document",
+      "path": "contests/yongin/ideas/2026-10-07-1059.md",
+      "details": [
+        "같은 건물에서도 창가·출입구·운동공간의 체감이 다른데 건물 전체 설정만 바꾸면 불편이 반복될 수 있다.",
+        "구역별 사용 목적·온도·이용 의견을 함께 확인해 조절 가능한 설비와 운영을 개선한다. 반복 민원·구역별 만족도·에너지 사용량 측정."
+      ]
+    }
+  ]
+}
